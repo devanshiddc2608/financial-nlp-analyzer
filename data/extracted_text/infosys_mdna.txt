@@ -1,0 +1,67 @@
+Management Discussion and Analysis section of this Integrated Annual Report.
+7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category Fiscal 2025 Fiscal 2024
+Total employees / No. of employees / % (B / A) Total employees / No. of employees / % (D / C)
+workers in respective workers in respective workers in respective workers in respective
+category (A) category, who are category (C) category, who are
+part of association(s) part of association(s)
+or Union (B) or Union (D)
+Total permanent 3,23,578 2,713* 0.8 3,17,240 2,430* 0.8
+employees
+Male 1,97,246 1,845 0.9 1,92,671 1,724 0.9
+Female 1,26,332 868 0.7 1,24,569 706 0.6
+Total permanent workers
+Male NA
+Female
+* Excludes employees who are part of Works Councils.
+8. Details of training of employees and worker (% to total no. of employees / workers in the category):
+Category Fiscal 2025(1) Fiscal 2024(1)
+Total (A) On health and safety On skill upgradation Total (D) On health and safety On skill upgradation
+measures(2) measures(2)
+No. (B) % (B / A) No. (C) % (C / A) No. (E) % (E / D) No. (F) % (F / D)
+Male 1,97,246 1,97,246 100 1,75,377 88.9 1,92,671 1,92,671 100 1,79,663 93.2
+Female 1,26,332 1,26,332 100 1,12,388 89.0 1,24,569 1,24,569 100 1,15,925 93.1
+Total 3,23,578 3,23,578 100 2,87,765 88.9 3,17,240 3,17,240 100 2,95,588 93.2
+Total permanent workers
+Male NA
+Female
+(1) Only for permanent employees
+(2) Includes awareness programs
+Infosys
+Integrated
+Annual
+Report
+2024-25
+9. Details of performance and career development reviews of employees and workers
+Category Fiscal 2025 Fiscal 2024
+Total (A)(1) No. (B) % (B / A) Total (C)(1) No. (D) % (D / C)
+Employees
+Male 1,77,052 1,77,052 100 1,57,504 1,57,504 100
+Female 1,15,011 1,15,011 100 1,02,420 1,02,420 100
+Total 2,92,063 2,92,063 100 2,59,924 2,59,924 100
+Total permanent workers
+Male NA
+Female
+(1) 100% of eligible employees have received performance and career development reviews.
+10. Health and safety management system:
+10a. Whether an occupational health and safety management system has been implemented by the entity? (Yes / No). If yes, the coverage of such system?
+Yes. Infosys recognizes and accords highest priority to safety and well-being of its employees and other relevant parties. Our HSE Policy enunciates our philosophy and
+commitment towards the management of key Health, Safety and Environmental (HSE) aspects. In line with our strategy, our Health, Safety and Environmental Management System
+(HSEMS) at all India locations is certified to ISO 45001:2018 standard. HSEMS is implemented at all our overseas locations based on legal requirements / internal benchmarks and
+have also included them in the internal audits cycle. We have established numerous interventions to address occupational health-related topics such as emotional well-being,
+mental health, ergonomics, safety, lifestyle diseases and more. Well-equipped occupational health centers are available at all our campuses in India. During the year, doctors and
+physiotherapists have helped employees and their families through virtual consultations leveraging our telemedicine portal. More details on Occupational Health and Safety are
+available on our website at https://www.infosys.com/about/corporate-responsibility/social/employee-wellbeing/occupational-health-safety.html.
+10b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+We proactively identify occupational health and safety risks, for all existing / new / modified activities, processes, products or services, and regulatory changes, including routine
+and non-routine activities. Risk assessment includes quarterly evaluation of incidents that have occurred. Hazardous conditions, if any, are identified and prioritized for elimination
+and control. Once the identified hierarchy of controls is implemented, the risk assessment is revisited to assess the residual risks. As Infosys is an IT / ITES company, there are no
+product risks, but there are risks associated with the provision of services such as ergonomics at work and those associated with the operation of utilities and employees’ commute.
+Participation and consultation with relevant personnel involved in the activities is ensured during the risk assessments. Risks are also assessed before and after the development
+of new buildings. Experience from previous projects and ongoing operations is also considered. We continually monitor our construction sites where infrastructure is being built.
+More details on Occupational Health and Safety are available on our website at https://www.infosys.com/about/corporate-responsibility/social/employee-wellbeing/occupational-
+health-safety.html.
+10c. Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Y / N)
+Yes. We have a process for employees and ‘other than permanent’ employees to report work-related hazards.
+10d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services?
+Yes

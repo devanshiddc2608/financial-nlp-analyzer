@@ -1,0 +1,31 @@
+# --- Secrets: NEVER commit these ---
+.env
+.env
+#.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments (yours is named financial_analyzer per your earlier paths)
+financial_analyzer/
+.venv/
+
+# --- Node (inside financial-analyzer-app if you ever add JS tooling) ---
+node_modules/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editor/IDE ---
+.vscode/
+.idea/
+
+# --- Large / regenerable files (optional — uncomment if repo gets too big) ---
+# data/raw_pdfs/*.pdf
+# *.pyc
+*.pbix

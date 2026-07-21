@@ -1,0 +1,39 @@
+ONE-PAGE BRIEF: JPMORGAN
+==================================================
+
+MD&A SUMMARY:
+ Management’s discussion and analysis of financial condition and results of operations appears on pages 52–167 . Such information should be read in conjunction with the Consolidated Financial Statements and Notes, which appear on pages 172–321 .
+
+RISK FACTORS SUMMARY:
+ Any of the risk factors discussed below could by itself, or combined with other factors, materially and adversely affect JPMorganChase’s business, results of operations, financial condition, capital position, liquidity, competitive position or reputation . The content and application of laws, rules and regulations affecting financial services firms can vary according to factors such as the size of the firm, the jurisdiction it is organized or operates .
+
+KEY METRICS:
+  mdna_total_words: 91
+  mdna_Negative: 0
+  mdna_Negative_pct: 0.0
+  mdna_Positive: 0
+  mdna_Positive_pct: 0.0
+  mdna_Uncertainty: 5
+  mdna_Uncertainty_pct: 5.495
+  mdna_Litigious: 1
+  mdna_Litigious_pct: 1.099
+  mdna_Constraining: 0
+  mdna_Constraining_pct: 0.0
+  risk_total_words: 19339
+  risk_Negative: 1137
+  risk_Negative_pct: 5.879
+  risk_Positive: 89
+  risk_Positive_pct: 0.46
+  risk_Uncertainty: 578
+  risk_Uncertainty_pct: 2.989
+  risk_Litigious: 385
+  risk_Litigious_pct: 1.991
+  risk_Constraining: 229
+  risk_Constraining_pct: 1.184
+  riskcount_market_risk: 21
+  riskcount_credit_risk: 21
+  riskcount_operational_risk: 9
+  riskcount_regulatory_risk: 75
+  riskcount_competitive_risk: 10
+  riskcount_liquidity_risk: 22
+  riskcount_cybersecurity_risk: 19

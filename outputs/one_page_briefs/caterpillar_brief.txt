@@ -1,0 +1,39 @@
+ONE-PAGE BRIEF: CATERPILLAR
+==================================================
+
+MD&A SUMMARY:
+ Cat Financial provides retail and wholesale financing alternatives to customers and dealers for Caterpillar products and services . Cat Financial finances a significant portion of Caterpillar dealers’ sales and inventory . Caterpillar distributed its machines principally through a worldwide organization of dealers (dealer network) The order backlog increased in Energy & Transportation, while Construction Industries decreased .
+
+RISK FACTORS SUMMARY:
+ The information contained on the company’s website is not included in, or incorporated by reference into, this annual report on Form 10-K . The occurrence of a major earthquake, fire, flood, tsunami or other weather event, power loss, telecommunications failure, software or hardware malfunctions, pandemics, cyber-attack, war, and war, terrorist attack could adversely affect Caterpillar's results .
+
+KEY METRICS:
+  mdna_total_words: 29091
+  mdna_Negative: 630
+  mdna_Negative_pct: 2.166
+  mdna_Positive: 187
+  mdna_Positive_pct: 0.643
+  mdna_Uncertainty: 577
+  mdna_Uncertainty_pct: 1.983
+  mdna_Litigious: 270
+  mdna_Litigious_pct: 0.928
+  mdna_Constraining: 220
+  mdna_Constraining_pct: 0.756
+  risk_total_words: 11060
+  risk_Negative: 389
+  risk_Negative_pct: 3.517
+  risk_Positive: 69
+  risk_Positive_pct: 0.624
+  risk_Uncertainty: 345
+  risk_Uncertainty_pct: 3.119
+  risk_Litigious: 176
+  risk_Litigious_pct: 1.591
+  risk_Constraining: 115
+  risk_Constraining_pct: 1.04
+  riskcount_market_risk: 17
+  riskcount_credit_risk: 4
+  riskcount_operational_risk: 3
+  riskcount_regulatory_risk: 16
+  riskcount_competitive_risk: 1
+  riskcount_liquidity_risk: 17
+  riskcount_cybersecurity_risk: 6

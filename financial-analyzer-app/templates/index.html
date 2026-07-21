@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Financial Statement Analyzer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>AI-Powered Financial Statement Analyzer</h1>
+      <p class="subtitle">Paste an MD&amp;A section, Risk Factors excerpt, or any financial narrative text below. The model extracts structured sentiment, growth drivers, risk factors, and red flags — not a chatbot response.</p>
+    </header>
+
+    {% if not job_id %}
+    <form method="POST" enctype="multipart/form-data">
+      <label class="field-label">Paste text</label>
+      <textarea name="financial_text" rows="10" placeholder="Paste financial statement text here (MD&A, Risk Factors, earnings commentary, etc.)...">{{ input_text }}</textarea>
+
+      <div class="or-divider">— OR —</div>
+
+      <label class="field-label">Upload a file (.txt, .pdf, .csv, .xlsx, .xls — max 100 MB)</label>
+      <input type="file" name="financial_file" accept=".txt,.pdf,.csv,.xlsx,.xls" />
+      {% if uploaded_filename %}
+        <p class="muted">Last analyzed file: {{ uploaded_filename }}</p>
+      {% endif %}
+
+      <button type="submit">Analyze</button>
+    </form>
+    {% endif %}
+
+    {% if error %}
+      <div class="alert alert-error">{{ error }}</div>
+    {% endif %}
+
+    {% if result and result.truncation_note %}
+      <div class="alert alert-warning">{{ result.truncation_note }}</div>
+    {% endif %}
+
+    {% if result and result.chunked %}
+      <div class="alert alert-warning">
+        Long document — analyzed in {{ result.chunk_count }} sections and merged into the summary below.
+      </div>
+    {% endif %}
+
+    {% if job_id %}
+      <div class="card" id="progress-card">
+        <h2>Analyzing document...</h2>
+        <div class="progress-track">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+        <p id="progress-message" class="muted">Starting analysis...</p>
+        <p class="muted" style="font-size:12px;">
+          Long documents are analyzed in sections with short waits between them to respect
+          the API's rate limit. This can take a few minutes — feel free to leave this tab open.
+        </p>
+      </div>
+
+      <script>
+        const jobId = "{{ job_id }}";
+        const progressFill = document.getElementById("progress-fill");
+        const progressMessage = document.getElementById("progress-message");
+
+        function pollStatus() {
+          fetch(`/status/${jobId}`)
+            .then(res => res.json())
+            .then(data => {
+              if (data.status === "not_found") {
+                progressMessage.innerText = "Job expired or not found. Please try again.";
+                return;
+              }
+
+              progressMessage.innerText = data.progress_message || "Working...";
+
+              const pct = data.total_chunks > 0
+                ? Math.round((data.current_chunk / data.total_chunks) * 100)
+                : 5;
+              progressFill.style.width = pct + "%";
+
+              if (data.status === "done") {
+                window.location.href = `/result/${jobId}`;
+              } else if (data.status === "error") {
+                progressMessage.innerText = "Error: " + data.error;
+              } else {
+                setTimeout(pollStatus, 2000);
+              }
+            })
+            .catch(() => {
+              progressMessage.innerText = "Lost connection, retrying...";
+              setTimeout(pollStatus, 3000);
+            });
+        }
+
+        pollStatus();
+      </script>
+    {% endif %}
+
+    {% if result %}
+      <div class="results">
+
+        <div class="card sentiment-card sentiment-{{ result.sentiment.label|lower }}">
+          <h2>Overall Sentiment: {{ result.sentiment.label }}</h2>
+          <p>{{ result.sentiment.reasoning }}</p>
+        </div>
+
+        <div class="card">
+          <h2>Executive Summary</h2>
+          <p>{{ result.executive_summary }}</p>
+        </div>
+
+        <div class="grid">
+          <div class="card">
+            <h2>Growth Drivers</h2>
+            {% if result.growth_drivers %}
+              <ul>
+                {% for driver in result.growth_drivers %}
+                  <li>{{ driver }}</li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <p class="muted">None identified in the provided text.</p>
+            {% endif %}
+          </div>
+
+          <div class="card">
+            <h2>Risk Factors</h2>
+            {% if result.risk_factors %}
+              <ul>
+                {% for r in result.risk_factors %}
+                  <li><span class="tag">{{ r.category.replace('_', ' ') }}</span> {{ r.risk }}</li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <p class="muted">None identified in the provided text.</p>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Red Flags / Notable Disclosures</h2>
+          {% if result.red_flags %}
+            <ul>
+              {% for flag in result.red_flags %}
+                <li>{{ flag }}</li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <p class="muted">No notable red flags identified.</p>
+          {% endif %}
+        </div>
+
+      </div>
+    {% endif %}
+
+    <footer>
+      <p>Built with Flask + Groq (Llama 3.3 70B) — a companion piece to a classical NLP extraction pipeline (spaCy + Loughran-McDonald).</p>
+    </footer>
+  </div>
+</body>
+</html>

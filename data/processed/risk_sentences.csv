@@ -1,0 +1,1214 @@
+company,risk_category,sentence
+jpmorgan,market_risk,"Summary
+The principal risk factors that could adversely affect JPMorganChase’s business, results of operations, financial condition, capital position, liquidity, competitive position or reputation include:
+•
+Regulatory
+risks, including the impact that applicable laws, rules and regulations in the highly-regulated and supervised financial services industry, as well as changes to or in the application, interpretation or enforcement of those laws, rules and regulations, can have on JPMorganChase’s business and operations, including JPMorganChase incurring additional costs associated with assessments, levies or other governmental charges; the ways in which differences in financial services regulation and supervision in different jurisdictions or with respect to certain competitors can negatively impact JPMorganChase’s business; the ways in which governmental policies that discourage or penalize business relationships with clients in certain industries, or require specific business practices, can negatively affect JPMorganChase's businesses; the penalties and collateral consequences, and higher compliance and operational costs, that JPMorganChase may incur when resolving a regulatory investigation; the ways in which less predictable legal and regulatory frameworks in certain jurisdictions can negatively impact JPMorganChase’s operations and financial results; and the losses that security holders and other unsecured creditors will absorb if JPMorganChase were to enter into a resolution.
+•
+Political
+risks, including the potential negative effects on JPMorganChase’s businesses due to economic uncertainty or instability caused by political developments.
+•
+Market
+risks, including the effects that economic and market events and conditions, political developments, changes in interest rates and credit spreads, and market fluctuations can have on JPMorganChase’s consumer and wholesale businesses and its investment and market-making
+positions and on JPMorganChase’s earnings and its liquidity and capital levels.
+•
+Credit
+risks, including potential negative effects from adverse changes in the financial condition of clients, customers, counterparties, custodians and central counterparties; the potential for losses due to declines in the value of collateral in stressed market conditions; and potential negative impacts from concentrations of credit risk with respect to clients, customers, counterparties and other market participants.
+•
+Liquidity
+risks, including the risk that JPMorganChase’s liquidity could be impaired by market-wide illiquidity or disruption, unforeseen liquidity or capital requirements, the inability to sell assets, default by a significant market participant, unanticipated outflows of cash or collateral, or lack of market or customer confidence in JPMorganChase; the dependence of JPMorgan Chase & Co. on the cash flows of its subsidiaries; and the potential adverse effects that any downgrade in any of JPMorganChase’s credit ratings may have on its liquidity and cost of funding.
+•
+Capital
+risks, including the risk that any failure by or inability of JPMorganChase to maintain the required level and composition of capital, or unfavorable changes in applicable capital requirements, could limit JPMorganChase’s ability to distribute capital to shareholders or to support its business activities."
+jpmorgan,market_risk,"Certain governmental policy initiatives, as well as heightened geopolitical tensions,
+could significantly affect U.S. and global economic growth and cause higher volatility in the financial markets, including:
+•
+monetary policies and actions taken by the Federal Reserve and other central banks or governmental authorities, including changes in interest rate levels and any sustained large-scale asset purchases or any suspension or reversal of those actions
+•
+fiscal policies, including with respect to taxation and spending
+•
+isolationist foreign policies
+•
+economic or financial sanctions
+•
+the implementation of tariffs and other protectionist trade policies
+•
+changes to immigration policies, or
+•
+actions that the government takes or fails to take in response to the effects of health emergencies, the spread of infectious diseases, epidemics or pandemics."
+jpmorgan,market_risk,"These types of political developments, and uncertainty about the possible outcomes of these developments, could:
+•
+erode investor or consumer confidence in the U.S. economy and financial markets, which could potentially undermine the status of the U.S. dollar as a safe haven currency
+•
+provoke retaliatory countermeasures by other countries and otherwise heighten tensions in regulatory, enforcement or diplomatic relations
+•
+increase the risk of targeted cyber attacks
+•
+increase concerns about whether the U.S. government will be funded, and its outstanding debt serviced, at any particular time
+•
+result in periodic shutdowns of the U.S. government
+•
+influence investor perceptions concerning government support of certain sectors of the economy or the economy as a whole
+•
+influence monetary policy actions of the Federal Reserve to moderate the economic impact of political developments, including decisions on interest rate levels and asset purchases and sales
+•
+adversely affect the financial condition or credit ratings of clients and counterparties with which JPMorganChase does business, or
+•
+cause JPMorganChase to refrain from engaging in business opportunities that it might otherwise pursue."
+jpmorgan,market_risk,"JPMorganChase’s results of operations can be negatively affected by adverse changes in any of the following:
+•
+investor, consumer and business sentiment
+•
+events that reduce confidence in the financial markets
+•
+inflation, deflation or recession
+•
+high unemployment or, conversely, a tightening labor market
+•
+the availability and cost of capital, liquidity and credit
+•
+levels and volatility of interest rates, credit spreads and market prices for currencies, debt and equity securities and commodities, as well as the duration of any such changes
+•
+the economic effects of an outbreak or escalation of war, hostilities, terrorism or other geopolitical instabilities, cyber attacks, climate change, natural disasters, severe weather conditions, health emergencies, the spread of infectious diseases, epidemics or pandemics or other extraordinary events beyond JPMorganChase’s control, and
+•
+the state of the U.S. and global economies."
+jpmorgan,market_risk,"In addition, JPMorganChase’s investment portfolio and market-making businesses can suffer losses due to unanticipated market events, including:
+•
+severe declines in asset values
+•
+unexpected credit events
+•
+unforeseen events or conditions that may cause previously uncorrelated factors to become correlated (and vice versa)
+•
+the inability to effectively hedge risks related to market-making and investment portfolio positions, or
+•
+other market risks that may not have been appropriately taken into account in the development, structuring or pricing of a financial instrument."
+jpmorgan,market_risk,"JPMorganChase’s consumer businesses are particularly affected by U.S. and global economic conditions, including:
+•
+personal and household income distribution
+•
+unemployment or underemployment
+•
+prolonged periods of exceptionally high or low interest rates, or significant changes to interest rates
+•
+changes in the value of collateral such as residential real estate and vehicles
+•
+changes in housing prices
+•
+the level of inflation and its effect on prices for goods and services
+•
+consumer and small business confidence levels, and
+•
+changes in consumer spending or in the level of consumer debt."
+jpmorgan,market_risk,"In addition, sustained low growth, low or negative interest rates, inflationary pressures or recessionary conditions could diminish customer demand for the products and services offered by JPMorganChase’s consumer businesses."
+jpmorgan,market_risk,"For example, higher interest rates or a downturn in financial markets could affect the valuation of client assets that JPMorganChase manages or holds under custody, which, in turn, could affect JPMorganChase’s revenue from fees that are based on the amount of assets under management or custody."
+jpmorgan,market_risk,"An adverse change in market conditions in particular segments of the economy, such as a sudden and severe downturn in oil and gas prices or an increase in commodity prices, severe declines in commercial real estate values, or sustained changes in consumer behavior that affect specific economic sectors, could have a material adverse effect on clients of JPMorganChase whose operations or financial condition are directly or indirectly dependent on the health or stability of those market segments or economic sectors, as well as clients that are engaged in related businesses."
+jpmorgan,market_risk,"Changes in interest rates and credit spreads can adversely affect JPMorganChase’s earnings, its liquidity or its capital levels."
+jpmorgan,market_risk,"When interest rates are high or increasing, JPMorganChase can generally be expected to earn higher net interest income."
+jpmorgan,market_risk,"However, higher interest rates can also lead to:
+•
+fewer originations of commercial and residential real estate loans
+•
+losses on underwriting exposures or incremental client-specific downgrades, or increases in the allowance for credit losses and net charge-offs due to higher financing costs for clients
+•
+the loss of deposits, particularly if customers withdraw deposits because they believe that interest rates offered by JPMorganChase are lower than those of competitors or if JPMorganChase makes incorrect assumptions about depositor behavior
+•
+losses on available-for-sale (“AFS”) securities held in the investment securities portfolio
+•
+lower net interest income if central banks introduce interest rate increases more quickly than anticipated and this results in a misalignment in the pricing of short-term and long-term borrowings
+•
+less liquidity in the financial markets, and
+•
+higher funding costs."
+jpmorgan,market_risk,"All of these outcomes could adversely affect JPMorganChase’s earnings or its liquidity and capital levels, and any negative outcomes could be more severe in a prolonged period of high interest rates."
+jpmorgan,market_risk,Higher interest rates can also negatively affect the payment performance on loans within JPMorganChase’s consumer and wholesale loan portfolios that are linked to variable interest rates.
+jpmorgan,market_risk,"On the other hand, a low or negative interest rate environment may cause:
+•
+net interest margins to be compressed, which could reduce the amounts that JPMorganChase earns on its investment securities portfolio to the extent that it is unable to reinvest contemporaneously in higher-yielding instruments
+•
+unanticipated or adverse changes in depositor behavior, which could negatively affect JPMorganChase’s broader asset and liability management strategy, and
+•
+a reduction in the value of JPMorganChase’s mortgage servicing rights (“MSRs”) asset, resulting in decreased revenues."
+jpmorgan,market_risk,JPMorganChase could incur significant losses arising from concentrations of credit and market risk.
+jpmorgan,market_risk,"JPMorganChase is exposed to greater credit and market risk to the extent that groupings of its clients or counterparties, or obligors on securities and other financial instruments:
+•
+engage in similar or related businesses, or in businesses in related industries
+•
+do business in the same geographic region, or
+Part I
+•
+have business profiles, models or strategies that could cause their ability to meet their obligations to be similarly affected by changes in economic conditions."
+jpmorgan,market_risk,"This type of interrelationship could exacerbate JPMorganChase’s credit, liquidity and market risk exposure and potentially cause it to incur losses, including fair value losses in its market-making businesses and investment portfolios."
+jpmorgan,market_risk,"JPMorganChase regularly monitors various segments of its credit and market risk exposures to assess the potential risks of concentration or contagion, but its ability to diversify or hedge its exposure against those risks may be limited."
+jpmorgan,market_risk,"The amount of capital that JPMorganChase is required to hold in order to satisfy these leverage- and risk-based requirements could increase at any given time due to factors such as:
+•
+actions by banking regulators, including changes in laws, rules and regulations
+Part I
+•
+changes in the composition of JPMorganChase’s balance sheet or developments that could increase RWA, such as increased market risk, customer delinquencies, client credit rating downgrades or other factors, and
+•
+increases in estimated stress losses as determined by the Federal Reserve under the Comprehensive Capital Analysis and Review, which could increase JPMorganChase’s SCB."
+jpmorgan,market_risk,"These reviews are required before JPMorganChase may use those models and estimations for calculating market risk RWA, credit risk RWA and operational risk RWA under Basel III."
+jpmorgan,credit_risk,"These consequences could result in JPMorganChase experiencing increases in the allowance for credit losses, higher delinquencies, defaults and charge-offs within its commercial real estate loan portfolio and incurring higher costs for servicing a larger volume of delinquent loans in that portfolio."
+jpmorgan,credit_risk,"Many of these transactions expose JPMorganChase to the credit risk of its clients and counterparties, and can involve JPMorganChase in disputes and litigation if a client or counterparty defaults."
+jpmorgan,credit_risk,"A default by, or the financial or operational failure of, a CCP through which JPMorganChase executes contracts would require JPMorganChase to replace those contracts, thereby increasing its operational costs and potentially resulting in losses."
+jpmorgan,credit_risk,"In addition, JPMorganChase can be exposed to losses if a member of a CCP in which JPMorganChase is also a member defaults on its obligations to the CCP because of requirements that each member of the CCP absorb a portion of those losses."
+jpmorgan,credit_risk,"Furthermore, JPMorganChase can be subject to bearing its share of non-default losses incurred by a CCP, including losses from custodial, settlement or investment activities or due to cyber or other security breaches."
+jpmorgan,credit_risk,"JPMorganChase is also exposed to intra-day credit risk of its clients in connection with providing cash management, clearing, custodial and other transaction services to those clients."
+jpmorgan,credit_risk,"In addition, local laws, rules and regulations could limit JPMorganChase’s ability to resolve disputes and litigation in the event of a counterparty default or unwillingness to make previously agreed-upon payments, which could subject JPMorganChase to losses."
+jpmorgan,credit_risk,"These consequences can also impair JPMorganChase’s ability to effectively manage its credit risk exposure from its market activities, or cause harm to JPMorganChase’s reputation."
+jpmorgan,credit_risk,"The financial or operational failure of a significant market participant, such as a major financial institution or a CCP, or concerns about the creditworthiness of such a market participant or its ability to fulfill its obligations, can cause substantial and cascading disruption within the financial markets, including in circumstances where coordinated action by multiple other market participants is required to address the failure or disruption."
+jpmorgan,credit_risk,"JPMorganChase’s businesses could be significantly disrupted by such an event, particularly if it leads to other market participants incurring significant losses, experiencing liquidity issues or defaulting, and JPMorganChase is likely to have significant interrelationships with, and credit exposure to, such a significant market participant."
+jpmorgan,credit_risk,"During periods of market stress or illiquidity, JPMorganChase’s credit risk may be further increased when:
+•
+JPMorganChase fails to realize the estimated value of the collateral it holds
+•
+collateral is liquidated at prices that are not sufficient to recover the full amount owed to it, or
+•
+counterparties are unable to post collateral, whether for operational or other reasons."
+jpmorgan,credit_risk,"For example, a significant deterioration in the credit quality of a counterparty, borrower or other obligor could lead to concerns about the creditworthiness of other counterparties, borrowers or obligors in similar, related or dependent industries."
+jpmorgan,credit_risk,"If large numbers of consumers subsequently default on their loans, whether due to weak credit profiles, an economic downturn or other factors, this could impair their ability to repay obligations owed to JPMorganChase and result in higher charge-offs and other credit-related losses."
+jpmorgan,credit_risk,"More broadly, widespread defaults on consumer debt could lead to recessionary conditions in the U.S. economy, and JPMorganChase’s consumer businesses may earn lower revenues in such an environment."
+jpmorgan,credit_risk,"If JPMorganChase is unable to reduce positions effectively during a market dislocation, this can increase both the market and credit risks associated with those positions and the level of risk-weighted-assets (“RWA”) that JPMorganChase holds on its
+balance sheet."
+jpmorgan,credit_risk,"JPMorganChase’s liquidity can be impacted at any given time as a result of factors such as:
+•
+market-wide illiquidity or disruption
+•
+changes in liquidity or capital requirements resulting from changes in laws, rules and regulations, including those in response to economic effects of systemic events
+•
+actions taken by the U.S. government or by the Federal Reserve to reduce its balance sheet, which may reduce deposits held by JPMorganChase and other financial institutions
+•
+inability to sell assets, or to sell assets at favorable times or prices
+•
+default by a CCP or other significant market participant
+•
+unanticipated outflows of cash or collateral
+•
+unexpected loss of deposits or higher than anticipated draws on lending-related commitments, and
+•
+lack of market or customer confidence in JPMorganChase or financial institutions in general."
+jpmorgan,credit_risk,Any rating reduction could also increase the credit spreads charged by the market for taking credit risk on JPMorgan Chase & Co. and its subsidiaries.
+jpmorgan,credit_risk,"The occurrence of one or more extraordinary events could also negatively impact the financial condition or creditworthiness of JPMorganChase’s clients and customers, and could lead to an increase in delinquencies, additions to the allowance for credit losses and higher net charge-offs, which can reduce JPMorganChase’s earnings."
+jpmorgan,credit_risk,"Both physical risks and transition risks associated with climate change could have negative impacts on the financial condition or creditworthiness of JPMorganChase’s clients and customers, on JPMorganChase's exposure to affected companies and markets, and on the effectiveness of JPMorganChase’s existing business strategy with respect to its operations, clients and customers."
+jpmorgan,credit_risk,"Depending on the scope of the conflict, the hostilities could result in:
+•
+worldwide economic disruption
+•
+heightened volatility in financial markets
+•
+severe declines in asset values, accompanied by widespread sell-offs of investments
+•
+sudden increases in prices in the energy and commodity markets or for certain safe haven currencies
+•
+substantial depreciation of local currencies, potentially leading to defaults by borrowers and counterparties in the affected region
+•
+disruption of global trade
+•
+diminished consumer, business and investor confidence
+•
+refugee and humanitarian crises, and
+•
+new economic sanctions or other regulatory requirements, including those that introduce exceptional compliance challenges for multinational companies such as JPMorganChase."
+jpmorgan,credit_risk,"Some of these countries have in the past experienced economic disruptions, including:
+•
+extreme currency fluctuations
+•
+high inflation
+•
+low or negative growth
+•
+defaults or reduced ability to service sovereign debt and
+•
+increased fraud or other misrepresentation of value."
+jpmorgan,operational_risk,"•
+Operational
+risks, including risks associated with JPMorganChase’s dependence on its operational systems and its employees, as well as the systems and employees of third parties, market participants and service providers; the potential negative effects of failing to identify and address operational risks related to the failure of internal or external operational systems, the introduction of or changes to products, services and delivery platforms or the adoption of new technologies; risks related to safeguarding personal information; the harm that could be caused by a successful cyber attack affecting JPMorganChase or by other extraordinary events; risks associated with JPMorganChase’s risk management framework and control environment, its models and estimations and associated judgments used in its stress testing and financial statements, and controls over disclosure and financial reporting; and potential adverse effects of failing to comply with applicable standards for the oversight of vendors and other service providers."
+jpmorgan,operational_risk,"An increase in foreclosures could result in higher operational risk associated with JPMorganChase owning and managing real property,
+Part I
+and any inadequacy in governance or control over the foreclosed properties could result in regulatory scrutiny and reputational harm."
+jpmorgan,operational_risk,"These external operational systems with which JPMorgan is connected, whether directly or indirectly, can be sources of operational risk to JPMorganChase."
+jpmorgan,operational_risk,"Similarly, retailers, payment systems and processors, data aggregators and other external parties with which JPMorganChase’s customers do business can increase JPMorganChase’s operational risk."
+jpmorgan,operational_risk,"JPMorganChase can be negatively affected if it fails to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms or the adoption of new technologies."
+jpmorgan,operational_risk,"When JPMorganChase launches a new product or service, introduces a new platform for the delivery or
+Part I
+distribution of products or services (including mobile connectivity, electronic trading and cloud computing), acquires or invests in a business, makes changes to an existing product, service or delivery platform, or adopts a new technology, it may not fully appreciate or identify new operational risks that may arise from those changes, including increased reliance on third party providers, or may fail to implement adequate controls to mitigate the risks associated with those changes."
+jpmorgan,operational_risk,JPMorganChase faces substantial legal and operational risks in the processing and safeguarding of personal information.
+jpmorgan,operational_risk,"These types of laws, rules and regulations can prohibit or significantly restrict financial services firms such as JPMorganChase from transferring information across national borders or sharing information among affiliates or with third parties such as vendors, thereby
+increase compliance costs and operational risk, or restrict JPMorganChase’s use of personal information when developing or offering products or services to customers."
+jpmorgan,operational_risk,"There can be no assurance that JPMorganChase’s disclosure controls and procedures will be effective in every circumstance, or that a material weakness or significant deficiency in internal control over financial reporting will not occur."
+jpmorgan,regulatory_risk,"•
+Strategic
+risks, including the damage to JPMorganChase’s competitive standing and results that could occur if management fails to develop and execute effective business strategies; risks associated with the significant and increasing competition that JPMorganChase faces; and the potential adverse impacts of climate change on the
+effectiveness of JPMorganChase’s existing business strategies with respect to its operations, clients and customers.
+•
+Conduct
+risks, including the negative impact that can result from the actions or misconduct of employees, including any failure of employees to conduct themselves in accordance with JPMorganChase’s expectations, policies and practices.
+•
+Reputation
+risks, including the potential adverse effects on JPMorganChase’s relationships with its clients, customers, shareholders, regulators and other stakeholders that could arise from employee misconduct, security breaches, inadequate risk management, compliance or operational failures, litigation and regulatory investigations, failure to satisfy expectations concerning environmental, social and governance concerns, failure to effectively manage conflicts of interest or to satisfy fiduciary obligations, or other factors that could damage JPMorganChase’s reputation.
+•
+Country
+risks, including potential impacts on JPMorganChase’s businesses from an outbreak or escalation of hostilities between countries or within a country or region; and the potential adverse effects of local economic, political, regulatory and social factors on JPMorganChase’s business and revenues in certain countries in which it operates."
+jpmorgan,regulatory_risk,"•
+Legal
+risks, including those relating to litigation and regulatory and government investigations."
+jpmorgan,regulatory_risk,"Regulatory
+JPMorganChase’s businesses are highly regulated, and the laws, rules and regulations that apply to JPMorganChase have a significant impact on its business and operations."
+jpmorgan,regulatory_risk,"Any failure by JPMorganChase to comply with the laws, rules and regulations to which it is subject could result in:
+•
+increased regulatory and supervisory scrutiny
+•
+regulatory and governmental enforcement actions
+•
+the imposition of fines, penalties or other sanctions
+•
+increased exposure to litigation, or
+•
+harm to its reputation."
+jpmorgan,regulatory_risk,"For example:
+•
+larger firms such as JPMorganChase are often subject to more stringent supervision, regulation and regulatory scrutiny
+•
+financial technology companies and other non-traditional competitors may not be subject to banking regulation, or may be supervised by a national or state regulatory agency that does not have the same resources or regulatory priorities as the regulatory agencies that supervise more diversified financial services firms, or
+•
+the financial services regulatory and supervisory framework in a particular jurisdiction may favor financial institutions that are based in that jurisdiction."
+jpmorgan,regulatory_risk,"These types of differences in the regulatory and supervisory framework can result in JPMorganChase losing market share to competitors that are less regulated or not subject to regulation, especially with respect to unregulated financial products."
+jpmorgan,regulatory_risk,There can also be significant differences in the ways that similar regulatory initiatives affecting the financial services industry are implemented in the U.S. and in other countries and regions in which JPMorganChase does business.
+jpmorgan,regulatory_risk,"For example, when adopting rules that are intended to implement a global regulatory or supervisory standard, a national regulator may introduce additional or more restrictive requirements, which can create competitive disadvantages for financial services firms, such as JPMorganChase, that may be subject to those enhanced regulations."
+jpmorgan,regulatory_risk,"In addition, certain national and multi-national bodies and governmental agencies outside the U.S. have adopted laws, rules or regulations that may conflict with or prohibit JPMorganChase from complying with laws, rules and regulations to which it is otherwise subject, creating conflict of law issues that also increase its risk of non-compliance in those jurisdictions."
+jpmorgan,regulatory_risk,Legislative and regulatory initiatives outside the U.S. have required and could in the future require JPMorganChase to make significant modifications to its operations and legal entity structure in the relevant countries or regions in order to comply with those requirements.
+jpmorgan,regulatory_risk,"These include laws, rules and regulations that have been adopted or proposed, as well as regulatory expectations, relating to:
+•
+the establishment of locally-based intermediate holding companies or operating subsidiaries
+•
+requirements to maintain minimum amounts of capital or liquidity in locally-based subsidiaries
+•
+the implementation of processes within locally-based subsidiaries to comply with local regulatory requirements or expectations
+•
+the separation (or “ring fencing”) of core banking products and services from markets activities
+•
+requirements for the orderly resolution of financial institutions
+•
+requirements for executing or settling transactions on exchanges or through central counterparties (“CCPs”), or for depositing funds with other financial institutions or clearing and settlement systems
+•
+position limits and reporting rules for derivatives
+•
+governance and accountability regimes
+•
+conduct of business and control requirements, and
+•
+restrictions on compensation."
+jpmorgan,regulatory_risk,"These types of differences, inconsistencies and conflicts in financial services regulation have required and could in the future require JPMorganChase to:
+•
+divest assets or restructure its operations
+•
+maintain higher levels of capital and liquidity, or absorb increased capital and liquidity costs
+•
+incur higher operational and compliance costs
+•
+change the prices that it charges for its products and services
+•
+curtail the products and services that it offers to its customers and clients
+•
+curtail other business opportunities, including acquisitions or principal investments, that it otherwise would have pursued
+•
+become subject to regulatory fines, penalties or other sanctions, or
+•
+incur higher costs for complying with different legal and regulatory frameworks."
+jpmorgan,regulatory_risk,"Resolving regulatory investigations can subject JPMorganChase to significant penalties and collateral consequences, and could result in higher compliance costs or restrictions on its operations."
+jpmorgan,regulatory_risk,JPMorganChase is subject to heightened oversight and scrutiny from regulatory authorities in many jurisdictions.
+jpmorgan,regulatory_risk,"JPMorganChase could become subject to similar regulatory or governmental resolutions or other actions in the future, and addressing the requirements of any such resolutions or actions could result in JPMorganChase incurring higher operational and compliance costs, including devoting substantial resources to the required remediation or needing to comply with other restrictions."
+jpmorgan,regulatory_risk,"In connection with resolving specific regulatory investigations or enforcement actions, certain regulators have required JPMorganChase and other financial institutions to admit wrongdoing with respect to the activities that gave rise to the resolution."
+jpmorgan,regulatory_risk,"Furthermore, government officials in the U.S. and other countries have demonstrated a willingness to bring criminal actions against financial institutions and have required that institutions plead guilty to criminal offenses or admit other wrongdoing in connection with resolving regulatory investigations or enforcement actions."
+jpmorgan,regulatory_risk,"JPMorganChase expects that:
+•
+it and other financial services firms will continue to be subject to heightened regulatory scrutiny and governmental investigations and enforcement actions
+•
+governmental authorities will continue to require that financial institutions be penalized for actual or deemed violations of law with formal and punitive enforcement actions, including the imposition of significant monetary and other sanctions, rather than resolving these matters through informal supervisory actions, and
+•
+governmental authorities will be more likely to pursue formal enforcement actions and resolutions against JPMorganChase to the extent that it has previously been subject to other governmental investigations or enforcement actions."
+jpmorgan,regulatory_risk,"If JPMorganChase fails to meet the requirements of any resolution of a governmental investigation or enforcement action, or to maintain risk and control processes that meet the heightened standards and expectations of its regulators, it could be required to, among other things:
+•
+enter into further resolutions of investigations or enforcement actions
+•
+pay additional regulatory penalties or enter into judgments, or
+•
+accept material regulatory restrictions on, or changes in the management of, its businesses."
+jpmorgan,regulatory_risk,"JPMorganChase’s operations and financial results can be negatively impacted in jurisdictions with less predictable legal and regulatory frameworks
+."
+jpmorgan,regulatory_risk,"JPMorganChase conducts existing and new business in certain countries, states, municipalities, territories and other jurisdictions in which the application of the rule of law is inconsistent, extralegal or less predictable, including with respect to:
+•
+the absence of a statutory or regulatory basis or guidance for engaging in specific types of business or transactions
+•
+conflicting or ambiguous laws, rules, regulations and judicial orders, or the inconsistent application or interpretation of existing laws, rules, regulations and judicial precedents
+•
+actions by or at the direction of government officials or agencies
+•
+uncertainty concerning the enforceability of intellectual property rights or contractual or other obligations
+•
+difficulty in competing in economies in which the government controls or protects all or a portion of the local economy or specific businesses, or where graft or corruption may be pervasive
+•
+the threat of regulatory investigations, civil litigations or criminal prosecutions that are arbitrary or otherwise contrary to established legal principles in other parts of the world, and
+Part I
+•
+the termination of licenses required to operate in the local market or the suspension of business relationships with governmental bodies."
+jpmorgan,regulatory_risk,"In addition, conducting business in jurisdictions with less predictable legal and regulatory frameworks could require JPMorganChase to devote significant additional resources to understanding local laws, rules and regulations, as well as structuring its operations to comply with local laws, rules and regulations and implementing and administering related internal policies and procedures."
+jpmorgan,regulatory_risk,"There can be no assurance that JPMorganChase will always be successful in its efforts to fully understand and to conduct its business in compliance with the laws, rules and regulations of all of the jurisdictions in which it operates, and the risk of non-compliance, or of interference with JPMorganChase's businesses, can be greater in jurisdictions that have less predictable legal and regulatory frameworks."
+jpmorgan,regulatory_risk,"All of these are affected by global economic, market and political events and conditions, including monetary policies and actions taken by central banks or other governmental authorities, as well as by the regulatory environment."
+jpmorgan,regulatory_risk,"If a client for which JPMorganChase provides these services becomes bankrupt or insolvent, JPMorganChase may incur losses, become involved in disputes and litigation with one or more CCPs, the client’s bankruptcy estate and other creditors, or be subject to regulatory investigations."
+jpmorgan,regulatory_risk,"JPMorganChase’s funding costs could also be negatively affected by actions that JPMorganChase may take in order to:
+•
+satisfy applicable liquidity coverage ratio and net stable funding ratio requirements
+•
+address obligations under its resolution plan, or
+•
+satisfy regulatory requirements in jurisdictions outside the U.S. relating to the pre-positioning of liquidity in subsidiaries that are material legal entities."
+jpmorgan,regulatory_risk,"JPMorgan Chase Bank, N.A. is subject to regulatory restrictions on its dividend distributions, as well as capital adequacy requirements, such as the Supplementary Leverage Ratio (“SLR”), and liquidity requirements and other regulatory restrictions on its ability to make payments to the Parent Company."
+jpmorgan,regulatory_risk,"Rating agencies evaluate general, firm-specific and industry-specific factors when determining credit ratings for a particular financial institution, including:
+•
+expected future profitability
+•
+risk management practices
+•
+legal expenses
+•
+ratings differentials between bank holding companies and their bank and non-bank subsidiaries
+•
+regulatory developments
+•
+assumptions about government support, and
+•
+economic and geopolitical developments."
+jpmorgan,regulatory_risk,"Capital
+Maintaining the required level and composition of capital may impact JPMorganChase’s ability to support business activities, meet evolving regulatory requirements and distribute capital to shareholders."
+jpmorgan,regulatory_risk,"JPMorganChase is subject to various regulatory capital requirements, including leverage- and risk-based capital requirements."
+jpmorgan,regulatory_risk,"In addition to proper design, installation, maintenance and training, the effective functioning of JPMorganChase’s operational systems depends on:
+•
+the quality of the information contained in those systems, as inaccurate, outdated, incomplete or corrupted data can significantly compromise the
+functionality or reliability of a particular system and other systems to which it transmits or from which it receives information, and
+•
+JPMorganChase’s ability to continue to maintain and upgrade its systems on a regular and timely basis in line with technological advancements and evolving security requirements, maintain security and operational continuity of its systems, including by carefully managing any changes introduced to its systems, prevent unauthorized access and the misuse of access to its systems, and adhere to all applicable legal and regulatory requirements, particularly in regions where JPMorganChase may face a heightened risk of malicious activity."
+jpmorgan,regulatory_risk,"The ineffectiveness, failure or other disruption of operational systems upon which JPMorganChase depends, including due to a systems malfunction, cyber incident or other systems failure, could result in unfavorable ripple effects in the financial markets and for JPMorganChase and its clients and customers, including:
+•
+delays or other disruptions in providing services, including the provision of liquidity or information to clients and customers
+•
+impairment of JPMorganChase’s ability to execute transactions, including delays or failures in the confirmation or settlement of transactions or in obtaining access to funds or other assets required for settlement
+•
+the possibility that funds transfers, capital markets trades or other transactions are executed erroneously
+•
+financial losses, including due to loss-sharing requirements of CCPs, payment systems or other market infrastructures, or as possible restitution to clients and customers
+•
+higher operational costs associated with replacing services provided by a system that has experienced a failure or other disruption
+•
+limitations on JPMorganChase's ability to collect data needed for its business and operations
+•
+loss of confidence in the ability of JPMorganChase, or financial institutions generally, to protect against and withstand operational disruptions
+•
+dissatisfaction among JPMorganChase’s clients or customers
+•
+significant exposure to litigation and regulatory fines, penalties or other sanctions, and
+•
+harm to JPMorganChase’s reputation."
+jpmorgan,regulatory_risk,"If JPMorganChase’s operational systems, or those of acquired businesses or of external parties on which
+Part I
+JPMorganChase’s businesses depend, are unable to meet the requirements of JPMorganChase’s businesses and operations or bank regulatory standards, or if they fail or have other significant shortcomings, JPMorganChase could be materially and adversely affected."
+jpmorgan,regulatory_risk,"Failure to discover or address emerging threats, known vulnerabilities or shortcomings in cybersecurity controls, or to prioritize or complete enhancements to address them, in each case in a timely manner, may leave JPMorganChase vulnerable to cyber attacks, potentially resulting in data breaches, financial losses,
+reputational damage and regulatory penalties, including the failure to prioritize or complete enhancements relating to:
+•
+preventing unauthorized access and protecting against the misuse of access, including the maintenance and enhancement of controls related to secure software development practices and identity and access management, such as those relating to the management of administrative access to systems
+•
+detecting, escalating and addressing effectively and in a timely manner any vulnerabilities that may be present either in internally-developed software or externally-provided software or services, including vulnerabilities that could allow attackers to exploit unknown security flaws in software and hardware (“zero-day vulnerabilities”)
+•
+oversight of third-party vendors and early detection of attacks against those vendors, including ransomware attacks and attacks targeting vulnerabilities in third-party open-source software, in support of the secure development and maintenance of internal systems
+•
+maintaining and enhancing controls related to technology asset management and inventory systems to prevent the risk of undetected vulnerabilities that could undermine JPMorganChase’s ability to operate an effective control process
+•
+upgrading the coverage and capabilities of systems and controls to protect JPMorganChase and its clients and customers from the impact of distributed denial-of-service attacks, or to recover from outages that could be caused by a malware or ransomware attack
+•
+the continuing migration of client-facing services to the cloud, and modernization of those services
+•
+strengthening network security and managing outbound connections to reduce the risk of data loss
+•
+identifying, assessing and mitigating insider threat activities that could lead to the misuse of JPMorganChase’s systems or client and customer information, and
+•
+integrating acquired businesses where system integration may be complex or may require extensive and lengthy remediation or enhancement of controls."
+jpmorgan,regulatory_risk,"A successful penetration or circumvention of the security of JPMorganChase’s systems or the systems of a vendor, governmental body or another market participant could cause serious negative consequences, including:
+•
+significant disruption of JPMorganChase’s operations and those of its clients, customers and
+counterparties, including losing access to operational systems
+•
+misappropriation of confidential information of JPMorganChase or that of its clients, customers, counterparties, employees or regulators
+•
+disruption of or damage to JPMorganChase’s systems and those of its clients, customers and counterparties
+•
+the inability, or extended delays in the ability, to fully recover and restore data that has been stolen, manipulated or destroyed, or the inability to prevent systems from processing fraudulent transactions
+•
+demands that JPMorganChase pay a ransom to a malicious actor that has perpetrated a cybersecurity breach
+•
+unintended violations by JPMorganChase of applicable privacy and other laws
+•
+financial loss to JPMorganChase or to its clients, customers, counterparties or employees
+•
+losses to JPMorganChase in excess of cyber insurance policy coverage
+•
+loss of confidence in JPMorganChase’s cybersecurity and business resiliency measures
+•
+dissatisfaction among JPMorganChase’s clients, customers or counterparties
+•
+significant exposure to litigation and regulatory fines, penalties or other sanctions, and
+•
+harm to JPMorganChase’s reputation."
+jpmorgan,regulatory_risk,"Any significant failure in this regard could diminish JPMorganChase’s ability to operate one or more of its businesses or result in:
+•
+potential liability to clients, counterparties and customers
+•
+higher compliance, operational or integration costs
+•
+higher litigation costs, including regulatory fines, penalties and other sanctions
+•
+damage to JPMorganChase’s reputation
+•
+impairment of JPMorganChase’s liquidity
+•
+regulatory intervention, or
+•
+weaker competitive standing."
+jpmorgan,regulatory_risk,"Governmental authorities around the world have adopted and are considering the adoption of numerous legislative and regulatory initiatives concerning privacy, data protection and security."
+jpmorgan,regulatory_risk,"Implementing processes relating to JPMorganChase’s collection, use, sharing and storage of personal information to comply with all applicable laws, rules and regulations in all relevant jurisdictions, including where the laws of different jurisdictions are in conflict, can:
+•
+increase JPMorganChase’s compliance and operating costs
+•
+hinder the development of new products or services, curtail the offering of existing products or services, or affect how products and services are offered to clients and customers
+•
+demand significant oversight by JPMorganChase’s management, and
+•
+require JPMorganChase to structure its businesses, operations and systems in less efficient ways."
+jpmorgan,regulatory_risk,"JPMorganChase could be exposed to litigation or regulatory fines, penalties or other sanctions if personal information of clients, customers, employees or others were to be mishandled or misused, such as situations where such information is:
+•
+erroneously provided to parties who are not permitted to have the information, or
+•
+intercepted or otherwise compromised by unauthorized third parties."
+jpmorgan,regulatory_risk,"Failure to manage these risks or to implement effective countermeasures could lead to unauthorized transactions, financial losses, reputational damage and increased regulatory scrutiny."
+jpmorgan,regulatory_risk,"Furthermore, any failure or perceived failure by JPMorganChase to comply with applicable privacy or data protection laws, rules and regulations, or any failure to appropriately calibrate, manage and monitor access by employees or third parties to personal information, could subject JPMorganChase to inquiries, examinations and investigations that could result in requirements to modify or cease certain operations or practices, significant liabilities or regulatory fines, penalties or other sanctions."
+jpmorgan,regulatory_risk,Some countries are considering or have adopted legislation implementing data protection requirements or requiring local storage and processing of data which could increase the cost and complexity of JPMorganChase’s delivery of products and services.
+jpmorgan,regulatory_risk,"Any significant failure or disruption of JPMorganChase’s operations or operational systems, or the occurrence of one or more extraordinary events that are beyond its control, could:
+•
+hinder JPMorganChase’s ability to provide services to its clients and customers or to transact with its counterparties
+•
+require it to expend significant resources to correct the failure or disruption or to address the event
+•
+cause it to incur losses or liabilities, including from loss of revenue, damage to or loss of property, or injuries
+•
+disrupt market infrastructure systems on which JPMorganChase’s businesses rely
+•
+expose it to litigation or regulatory fines, penalties or other sanctions, and
+•
+harm its reputation."
+jpmorgan,regulatory_risk,"JPMorganChase relies on accurate, timely and complete data to effectively operate its systems and processes, including:
+•
+assessing risk exposures and limits
+•
+monitoring and detecting fraudulent transactions and cyber threats
+•
+developing or maintaining models and other analytical and judgment-based estimations, including those that use machine learning or artificial intelligence
+•
+implementing and maintaining compliance programs, and
+•
+preparing financial statements, disclosures and regulatory reports, as well as internal reporting
+Any deficiencies in JPMorganChase’s data management processes, including with respect to the accuracy or completeness of data, the timeliness of data collection, the analysis or validation of data, or the safeguarding of data could undermine the reliability and effectiveness of its operations, including:
+•
+risk management practices, including inaccurate or untimely risk reporting
+•
+delivery of regulatory reporting or internal or external financial reporting
+•
+compliance practices, such as those relating to transaction monitoring, customer screening, blocking and rejecting transactions, recordkeeping or reporting
+•
+business activities, such as those related to managing JPMorganChase's market-making positions and liquidity and capital levels, including reliance on timely data for informed decision-making
+•
+providing services to clients and customers, including transaction processing, lending services, account management and customer support, or
+•
+fraud detection and prevention processes."
+jpmorgan,regulatory_risk,"Any or all of these factors could impair the ability of JPMorganChase to make sound business decisions, cause it to incur higher operational and compliance costs, result in operational breakdowns or failure to meet its regulatory requirements, negatively affect clients and customers, or lead to reputational harm."
+jpmorgan,regulatory_risk,Enhanced regulatory and other standards for the oversight of vendors and other service providers can result in higher costs and other potential exposures.
+jpmorgan,regulatory_risk,"JPMorganChase must comply with enhanced regulatory and other standards associated with doing
+business with vendors and other service providers, including standards relating to the outsourcing of functions as well as the performance of significant banking and other functions by subsidiaries."
+jpmorgan,regulatory_risk,"Specifically, any such failure could result in:
+•
+potential harm to clients and customers, and any liability associated with that harm
+•
+regulatory fines, penalties or other sanctions
+•
+lower revenues, and the opportunity cost from lost revenues
+•
+increased operational costs, or
+•
+harm to JPMorganChase’s reputation."
+jpmorgan,regulatory_risk,"Any such inadequacy or lapse could:
+•
+hinder the timely escalation of material risk issues to JPMorganChase’s senior management and Board of Directors
+•
+lead to business decisions that have negative outcomes for JPMorganChase
+•
+require significant resources and time to remediate
+•
+lead to non-compliance with laws, rules and regulations
+•
+attract heightened regulatory scrutiny
+•
+expose JPMorganChase to litigation, regulatory investigations or regulatory fines, penalties or other sanctions
+•
+lead to potential harm to customers and clients, and any liability associated with that harm
+•
+harm its reputation, or
+•
+otherwise diminish confidence in JPMorganChase."
+jpmorgan,regulatory_risk,"JPMorganChase could recognize unexpected losses, its capital levels could be reduced and it could face greater regulatory scrutiny if its models, estimations or judgments, including those used in its financial statements, are inadequate or incorrect."
+jpmorgan,regulatory_risk,"JPMorganChase’s businesses and operations are subject to complex and evolving laws, rules and regulations, both within and outside the U.S., requiring continuous enhancements to various disclosures in its financial statements and regulatory reports."
+jpmorgan,regulatory_risk,"Any such lapse, weakness or
+deficiency could result in inaccurate financial reporting which, in turn, could:
+•
+materially and adversely affect JPMorganChase’s business and results of operations or financial condition
+•
+restrict its ability to access the capital markets
+•
+require it to expend significant resources to correct the lapse, weakness or deficiency
+•
+expose it to litigation or regulatory fines, penalties or other sanctions
+•
+harm its reputation, or
+•
+otherwise diminish investor confidence in JPMorganChase."
+jpmorgan,regulatory_risk,"If management makes choices about these strategies and goals that prove to be incorrect, are based on incomplete, inaccurate or fraudulent information, do not accurately assess the competitive landscape and industry trends, or fail to address changing regulatory and market environments or the expectations of clients, customers, investors, employees and other stakeholders, then the franchise values and growth prospects of JPMorganChase’s businesses may suffer and its earnings could decline."
+jpmorgan,regulatory_risk,"Potential adverse impacts of transition risks to JPMorganChase, its clients or customers include:
+•
+sudden devaluation of assets, including unanticipated write-downs (“stranded assets”)
+•
+increased operational and compliance costs driven by changes in climate policy
+•
+increased energy costs driven by governmental actions and initiatives such as emission pricing and accelerated decarbonization policies
+•
+negative consequences to business models, and the need to make changes in response to those consequences, and
+•
+damage to JPMorganChase’s reputation, including due to any perception that its business practices are contrary to public policy or the preferences of different stakeholders."
+jpmorgan,regulatory_risk,"Conduct
+Conduct failure by JPMorganChase employees can harm clients and customers, impact market integrity, damage JPMorganChase’s reputation and trigger litigation and regulatory action."
+jpmorgan,regulatory_risk,"Some examples of this include:
+•
+improperly selling and marketing JPMorganChase’s products or services
+•
+engaging in insider trading, market manipulation or unauthorized trading
+•
+engaging in improper or fraudulent behavior in connection with government relief programs
+•
+facilitating a transaction where a material objective is to achieve a particular tax, accounting or financial disclosure treatment that may be subject to scrutiny by governmental or regulatory authorities, or where the proposed treatment is unclear or may not reflect the economic substance of the transaction
+•
+failing to fulfill fiduciary obligations or other duties owed to clients or customers
+•
+violating antitrust or anti-competition laws by colluding with other market participants
+•
+using electronic communications channels that have not been approved by JPMorganChase
+•
+engaging in discriminatory behavior or harassment with respect to clients, customers or employees, or acting contrary to JPMorganChase’s goal of fostering an inclusive workplace
+•
+managing or reporting risks in ways that subordinate JPMorganChase’s risk appetite to business performance goals or employee compensation objectives, and
+•
+misappropriating property, confidential or proprietary information, or technology assets belonging to JPMorganChase, its clients and customers or third parties."
+jpmorgan,regulatory_risk,"The consequences of any failure by one or more employees to conduct themselves in accordance with JPMorganChase’s expectations, policies or practices could include litigation, or regulatory or other governmental investigations or enforcement actions."
+jpmorgan,regulatory_risk,"Any of these proceedings or actions could result in judgments, settlements, fines, penalties or other sanctions, or lead to:
+•
+financial losses
+•
+increased operational and compliance costs
+•
+greater scrutiny by regulators and other parties
+•
+regulatory actions that require JPMorganChase to restructure, curtail or cease certain of its activities
+•
+the need for significant oversight by JPMorganChase’s management
+•
+loss of clients or customers, and
+•
+harm to JPMorganChase’s reputation."
+jpmorgan,regulatory_risk,"Damage to JPMorganChase’s reputation can therefore cause significant harm to JPMorganChase’s business and prospects, and can arise from numerous sources, including:
+•
+employee misconduct, including discriminatory behavior or harassment with respect to clients, customers or employees, or actions that are contrary to JPMorganChase’s goal of fostering an inclusive workplace
+•
+security breaches, including as a result of cyber attacks
+•
+failure to safeguard client, customer or employee information
+•
+failure to manage risks associated with its client relationships, or with transactions or business activities in which JPMorganChase or its clients engage, including transactions or activities that may be unpopular among one or more constituencies
+•
+rapid and broad dissemination of misinformation and disinformation across the media landscape, including social networking sites
+•
+incorrect, biased or misleading results or content generated by artificial intelligence, leading to harmful outcomes, including discrimination in lending practices against vulnerable populations, fraud, manipulation of customers, privacy breaches or intellectual property infringement
+•
+deficiencies or perceived failures in managing ESG-related initiatives, including modifying or failing to meet publicly-announced targets
+•
+operational failures
+•
+litigation or regulatory fines, penalties or other sanctions
+•
+actions taken in executing regulatory and governmental requirements during a global or regional health emergency, spread of infectious disease, epidemic or pandemic
+•
+regulatory investigations or enforcement actions, or resolutions of these matters, and
+•
+failure or perceived failure to comply with laws, rules or regulations by JPMorganChase or its clients,
+Part I
+customers, counterparties or other parties, including newly-acquired businesses, companies in which JPMorganChase has made principal investments, parties to joint ventures with JPMorganChase, and vendors with which JPMorganChase does business."
+jpmorgan,regulatory_risk,"In addition, JPMorganChase has been and expects that it will continue to be criticized by activists, politicians and other members of the public concerning business practices or positions taken by JPMorganChase with respect to matters of public policy (such as diversity, equity and inclusion initiatives) or regarding transactions or other business or interactions between JPMorganChase and governmental or regulatory bodies."
+jpmorgan,regulatory_risk,"Furthermore, JPMorganChase's relationships or ability to transact with clients and customers, and with governmental or regulatory bodies in jurisdictions in which JPMorganChase does business, could be adversely affected if its decisions with respect to doing business with companies in certain sensitive industries are perceived to harm those companies or to align with particular political viewpoints."
+jpmorgan,regulatory_risk,"In all of these cases, JPMorganChase’s reputation and its business and results of operations could be harmed by:
+•
+greater scrutiny from governmental or regulatory bodies, or further criticism from politicians and other members of the public, including in the form of governmental or regulatory investigations or litigation
+•
+unfavorable coverage or commentary in the media, including through social media campaigns
+•
+certain clients and customers ceasing doing business with JPMorganChase, and encouraging others to do so
+•
+impairment of JPMorganChase’s ability to attract new clients and customers, to expand its relationships with existing clients and customers, or to hire or retain employees, or
+•
+certain investors opting to divest from investments in securities of JPMorganChase."
+jpmorgan,regulatory_risk,"JPMorganChase can become subject to litigation, enforcement actions, and heightened regulatory scrutiny, and its reputation can be damaged, by the failure or perceived failure to:
+•
+adequately address or appropriately disclose conflicts of interest, including potential conflicts of interest that may arise in connection with providing multiple products and services in, or having one or more investments related to, the same transaction
+•
+identify and address any conflict of interest that a third party with which it is does business may have with respect to a transaction involving JPMorganChase
+•
+deliver appropriate standards of service and quality
+•"
+jpmorgan,regulatory_risk,"treat clients and customers fairly and with the appropriate standard of care
+•
+use client and customer data responsibly and in a manner that meets legal requirements and regulatory expectations
+•
+provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or
+•
+handle or use confidential information of customers or clients appropriately and in compliance with applicable data protection and privacy laws, rules and regulations."
+jpmorgan,regulatory_risk,"A failure or perceived failure to appropriately address conflicts of interest or fiduciary obligations could result in customer dissatisfaction, litigation and regulatory fines, penalties or other sanctions, and heightened regulatory scrutiny and enforcement actions, all of which can lead to lost revenue and higher operating costs and cause serious harm to JPMorganChase’s reputation."
+jpmorgan,regulatory_risk,"JPMorganChase’s business and operations in certain countries can be adversely affected by local economic, political, regulatory and social factors."
+jpmorgan,regulatory_risk,"Some of the countries in which JPMorganChase conducts business have economies or markets that are less developed and more volatile or may have political, legal and regulatory regimes that are less established or predictable than other countries in which JPMorganChase operates."
+jpmorgan,regulatory_risk,"These economic, political, regulatory and social developments have in the past resulted in, and in the future could lead to, conditions that can adversely affect JPMorganChase’s operations in those countries and impair the revenues, growth and profitability of those operations."
+jpmorgan,regulatory_risk,"Legal
+JPMorganChase faces significant legal risks from litigation and formal and informal regulatory and government investigations."
+jpmorgan,regulatory_risk,"As a participant in the financial services industry, it is likely that JPMorganChase will continue to experience a high level of litigation and regulatory and government investigations related to its businesses and operations."
+jpmorgan,regulatory_risk,"Regulators and other government agencies conduct examinations of JPMorganChase and its subsidiaries both on a routine basis and in targeted exams, and JPMorganChase’s businesses and operations are subject to heightened regulatory oversight."
+jpmorgan,regulatory_risk,"This heightened regulatory scrutiny, or the results of such an investigation or examination, may lead to additional regulatory investigations or enforcement actions."
+jpmorgan,regulatory_risk,"JPMorganChase could become subject to a significant regulatory investigation and be unable to disclose specific information concerning that investigation to the public if such a disclosure would violate JPMorganChase’s obligations under applicable rules and regulations to maintain the confidentiality of confidential supervisory information, even if the resolution of that investigation could have a material adverse effect on JPMorganChase’s business, operations, results or financial condition."
+jpmorgan,regulatory_risk,"Regulatory investigations, examinations or other initiatives by U.S. and non-U.S. governmental authorities may subject JPMorganChase to judgments, settlements, fines, penalties or other sanctions, and may require JPMorganChase to restructure its operations and activities or to cease offering certain products or services."
+jpmorgan,regulatory_risk,"In addition, the extent of JPMorganChase’s exposure to legal and regulatory matters can be unpredictable and could, in some cases, exceed the amount of reserves that JPMorganChase has established for those matters."
+jpmorgan,competitive_risk,"Because governmental policies in one jurisdiction may differ or conflict with those in other jurisdictions, JPMorganChase may face negative consequences regardless of the course of action it takes or elects not to take, including:
+•
+restrictions or prohibitions on doing business within a particular jurisdiction, or with governmental entities in a jurisdiction
+•
+the threat of enforcement actions, including under antitrust or other anti-competition laws, rules and regulations, and
+•
+harm to its reputation arising from public criticism, including from politicians, activists and other stakeholders."
+jpmorgan,competitive_risk,Heightened competition for certain types of consumer loans could prompt industry-wide reactions such as significant reductions in the pricing or margins of those loans or the making of loans to less-creditworthy borrowers.
+jpmorgan,competitive_risk,JPMorganChase faces significant and increasing competition in the rapidly evolving financial services industry.
+jpmorgan,competitive_risk,JPMorganChase expects that competition in the U.S. and global financial services industry will continue to be intense.
+jpmorgan,competitive_risk,JPMorganChase cannot provide assurance that the significant competition in the financial services industry will not materially and adversely affect its future results of operations.
+jpmorgan,competitive_risk,"For example, aggressive or less disciplined lending practices by non-bank competitors could lead to a loss of market share for traditional banks, and in an economic downturn could result in instability in the financial services industry and adversely impact other market participants, including JPMorganChase."
+jpmorgan,competitive_risk,"Ongoing or increased competition may put pressure on the pricing for JPMorganChase’s products and services or may cause JPMorganChase to lose market share, particularly with respect to traditional banking products."
+jpmorgan,competitive_risk,"This competition may be based on quality and variety of products and services offered, transaction execution, innovation, reputation and price."
+jpmorgan,competitive_risk,"Increased competition also may require JPMorganChase to make additional capital investments in its businesses, or to extend more of its capital on behalf of its clients to remain competitive."
+jpmorgan,competitive_risk,"JPMorganChase’s employees are its most important resource, and in many areas of the financial services industry, competition for qualified personnel is intense."
+jpmorgan,liquidity_risk,"Any of the risk factors discussed below could by itself, or combined with other factors, materially and adversely affect JPMorganChase’s business, results of operations, financial condition, capital position, liquidity, competitive position or reputation, including by materially increasing expenses or decreasing revenues, which could result in material losses or a decrease in earnings."
+jpmorgan,liquidity_risk,"In response to new and existing laws, rules and regulations and expanded supervision, JPMorganChase has in the past been and could in the future be, required to:
+•
+limit the products and services that it offers
+•
+reduce the liquidity that it can provide through its market-making activities
+•
+refrain from engaging in business opportunities that it might otherwise pursue
+•
+pay higher taxes (including as part of any minimum global tax regime), assessments, levies or other governmental charges, including in connection with the resolution of tax examinations
+•
+incur losses, including with respect to fraudulent transactions perpetrated against its customers
+•
+dispose of certain assets, and do so at times or prices that are disadvantageous
+•
+impose restrictions on certain business activities, or
+•
+increase the prices that it charges for products and services, which could reduce the demand for them."
+jpmorgan,liquidity_risk,Requirements for the orderly resolution of JPMorganChase could result in JPMorganChase having to restructure or reorganize its businesses and could increase its funding or operational costs or curtail its businesses.
+jpmorgan,liquidity_risk,"Any such determinations or modifications could result in JPMorganChase needing to make changes to its legal entity structure or to certain internal or external activities, which could increase its funding or operational costs, or hamper its ability to serve clients and customers."
+jpmorgan,liquidity_risk,"If the Federal Reserve and the FDIC were both to determine that a resolution plan submitted by JPMorganChase has deficiencies, they could jointly impose more stringent capital, leverage or liquidity requirements or restrictions on JPMorganChase’s growth, activities or operations."
+jpmorgan,liquidity_risk,"Any of these potential outcomes could cause JPMorganChase to suffer losses on its market-making positions or in its investment portfolio, reduce its liquidity and capital levels, increase the allowance for credit losses or lead to higher net charge-offs, hamper its ability to deliver products and services to its clients and customers, and weaken its results of operations and financial condition or credit rating."
+jpmorgan,liquidity_risk,"If JPMorganChase experiences significant losses in its investment portfolio or from market-making activities, this could reduce JPMorganChase’s profitability and its liquidity and capital levels, and thereby constrain the growth of its businesses."
+jpmorgan,liquidity_risk,"In addition, at the time of any disposition of these financial instruments, the price that JPMorganChase ultimately realizes will depend on the demand and liquidity in the market at that time and may be materially lower than their current fair value."
+jpmorgan,liquidity_risk,"Furthermore, disputes with counterparties concerning the valuation of collateral may increase in times of significant market stress, volatility or illiquidity, and JPMorganChase could suffer losses during these periods if it is unable to realize the fair value of collateral or to manage declines in the value of collateral."
+jpmorgan,liquidity_risk,"These factors could adversely affect JPMorganChase’s capital position, funding costs and the profitability of its businesses."
+jpmorgan,liquidity_risk,"Liquidity
+JPMorganChase’s ability to operate its businesses could be impaired if its liquidity is constrained."
+jpmorgan,liquidity_risk,A reduction in JPMorganChase’s liquidity may be caused by events over which it has little or no control.
+jpmorgan,liquidity_risk,"For example, periods of market stress, low investor confidence and significant market illiquidity could result in higher funding costs for JPMorganChase and could limit its access to some of its traditional sources of liquidity."
+jpmorgan,liquidity_risk,"JPMorganChase may need to raise funding from alternative sources if its access to stable and lower-cost sources of funding, such as deposits and borrowings from Federal Home Loan Banks, is reduced."
+jpmorgan,liquidity_risk,Alternative sources of funding could be more expensive or limited in availability.
+jpmorgan,liquidity_risk,"More generally, if JPMorganChase fails to effectively manage its liquidity, this could constrain its ability to fund or invest in its businesses and subsidiaries, and thereby adversely affect its results of operations."
+jpmorgan,liquidity_risk,"The IHC is prohibited from paying dividends or extending credit to the Parent Company if certain capital or liquidity thresholds are breached, or if limits are otherwise imposed by the Parent Company’s management or Board of Directors."
+jpmorgan,liquidity_risk,"These arrangements could also result in the Parent Company seeking protection under bankruptcy laws or otherwise entering into resolution proceedings at a time earlier than would have been the case absent the existence of the capital and liquidity thresholds to which JPMorgan Chase Bank, N.A. and the IHC are subject."
+jpmorgan,liquidity_risk,Reductions in JPMorganChase’s credit ratings may adversely affect its liquidity and cost of funding.
+jpmorgan,liquidity_risk,"A reduction in JPMorganChase’s credit ratings could curtail JPMorganChase’s business activities and reduce its profitability in a number of ways, including:
+•
+reducing its access to capital markets
+•
+materially increasing its cost of issuing and servicing securities
+•
+triggering additional collateral or funding requirements, and
+•
+decreasing the number of investors and counterparties that are willing or permitted to do business with or lend to JPMorganChase."
+jpmorgan,liquidity_risk,"JPMorganChase has developed and uses a variety of models and other analytical and judgment-based estimations to measure, monitor and implement controls over its market, credit, capital, liquidity, operational and other risks."
+jpmorgan,liquidity_risk,"The models and estimations that JPMorganChase uses, including those that use machine learning or artificial intelligence, may not be effective in all cases to identify, observe and mitigate risk due to a variety of factors, such as:
+•
+reliance on historical trends that may not persist in the future, including assumptions underlying the models and estimations such as correlations among certain market indicators or asset prices
+•
+inherent limitations associated with forecasting uncertain economic and financial outcomes
+•
+historical trend information may be incomplete, or may not be indicative of severely negative market conditions such as extreme volatility, dislocation or lack of liquidity
+•
+sudden illiquidity in markets or declines in prices of certain loans and securities may make it more difficult to value certain financial instruments
+•
+technology that is introduced to run models or estimations may not perform as expected, or may not be well understood by the personnel using the technology
+•
+models and estimations may contain erroneous data, valuations, formulas or algorithms
+•
+review processes may fail to detect flaws in models and estimations, and
+Part I
+•
+models may inadvertently incorporate biases present in data used in the models."
+jpmorgan,cybersecurity_risk,"JPMorganChase may be exposed not only to a systems failure or cyber attack that may be experienced by a vendor or market infrastructure with which JPMorganChase is directly connected, but also to a systems breakdown or cyber attack involving another party to which such a vendor or infrastructure is connected."
+jpmorgan,cybersecurity_risk,"As JPMorganChase’s interconnectivity with clients, customers and other external parties continues to expand, JPMorganChase increasingly faces the risk of operational failure or cyber attacks with respect to the systems of those parties."
+jpmorgan,cybersecurity_risk,"Furthermore, the widespread and expanding interconnectivity among financial institutions, clearing banks, CCPs, payments processors, financial technology companies, securities exchanges, clearing houses and other financial market infrastructures increases the risk that the disruption of an operational system involving one institution or entity, including due to a cyber attack, may cause industry-wide operational disruptions that could materially affect JPMorganChase’s ability to conduct business."
+jpmorgan,cybersecurity_risk,A successful cyber attack affecting JPMorganChase could cause significant harm to JPMorganChase and its clients and customers.
+jpmorgan,cybersecurity_risk,"JPMorganChase experiences numerous cyber attacks on its computer systems, software, networks and other technology assets on a daily basis from various actors, including groups acting on behalf of hostile countries, cyber-criminals, “hacktivists” (i.e., individuals or groups that use technology to promote a political agenda or social change) and others."
+jpmorgan,cybersecurity_risk,"These cyber attacks can take many forms, including attempts to introduce computer viruses or malicious code, which are commonly referred to as “malware,” into JPMorganChase’s systems."
+jpmorgan,cybersecurity_risk,"JPMorganChase also experiences:
+•
+distributed denial-of-service attacks intended to disrupt JPMorganChase’s websites, including those that provide online banking and other services,
+•
+a higher volume and complexity of cyber attacks against the backdrop of heightened geopolitical tensions, and
+•
+a high volume of disruptions to internet-based services used by JPMorganChase that are provided by third parties."
+jpmorgan,cybersecurity_risk,"JPMorganChase has experienced security breaches due to cyber attacks in the past, and it is inevitable that additional breaches will occur in the future."
+jpmorgan,cybersecurity_risk,"A principal reason that JPMorganChase cannot provide absolute security against cyber attacks is that it may not always be possible to anticipate, detect or recognize threats to JPMorganChase’s systems, or to
+implement effective preventive measures against all breaches due to evolving risks, including:
+•
+the techniques used in cyber attacks evolve frequently and increase in sophistication, and therefore may not be recognized until launched or may go undetected for extended periods
+•
+cyber attacks can originate from a wide variety of sources, including JPMorganChase’s own employees, cyber-criminals, hacktivists, groups linked to terrorist organizations or hostile nation-states that can sustain malicious activities for extended periods, or third parties whose objective is to disrupt the operations of financial institutions more generally
+•
+JPMorganChase does not have control over the cybersecurity of the systems of the large number of clients, customers, counterparties and third-party service providers with which it does business, and
+•
+it is possible that a third party, after establishing a foothold on an internal network without being detected, may gain access to other networks and systems."
+jpmorgan,cybersecurity_risk,"The risk of a security breach due to a cyber attack could increase in the future due to factors such as:
+•
+JPMorganChase’s ongoing expansion of its digital banking and other internet-based product offerings and its internal use of internet-based products and applications, including those that use cloud computing services
+•
+advances in artificial intelligence, such as the use of machine learning, generative artificial intelligence and quantum computing by malicious actors to develop more advanced social engineering attacks, including targeted phishing attacks
+•
+the inability to maintain the security of information transmitted by JPMorganChase due to advances in quantum computing that may counteract or nullify existing information protections, and
+•
+the acquisition and integration of new businesses."
+jpmorgan,cybersecurity_risk,"The dynamic nature of the cyber threat landscape, including the pace of innovation and increased threat of novel attack methods, necessitates ongoing investment in, as well as enhancement and adaptation of, cybersecurity controls, including the adoption of enhanced security measures in certain jurisdictions."
+jpmorgan,cybersecurity_risk,"The extent of a particular cyber attack, the methods and tools used by various actors, and the steps that JPMorganChase may need to take to investigate the attack may not be immediately clear, and it may take a significant amount of time before such an investigation can be completed."
+jpmorgan,cybersecurity_risk,"While such an investigation is ongoing, JPMorganChase may not necessarily know the full extent of the harm caused by the cyber attack, and that damage may continue to spread."
+jpmorgan,cybersecurity_risk,"These factors may inhibit JPMorganChase’s ability to provide rapid, full and reliable information about the cyber attack to its clients, customers, counterparties and regulators, as well as the public."
+jpmorgan,cybersecurity_risk,"Furthermore, it may not be clear how best to contain and remediate the harm caused by the cyber attack, and certain errors or actions could be repeated or compounded before they are discovered and remediated."
+jpmorgan,cybersecurity_risk,Any or all of these factors could further increase the costs and consequences of a cyber attack.
+jpmorgan,cybersecurity_risk,"JPMorganChase’s business and operational systems could be seriously disrupted, and its reputation could be harmed, by events or contributing factors that are wholly or partially beyond its control, including material instances of:
+•
+cyber attacks
+•
+security breaches of its physical premises, including threats to health and safety
+•
+power, telecommunications or internet outages, or shutdowns of mass transit
+•
+failure of, or loss of access to, technology or operational systems, including any resulting loss of critical data
+•
+interruption of service from third-party service providers
+•
+damage to or loss of property or assets of JPMorganChase or third parties, and any consequent injuries, including in connection with any construction projects undertaken by JPMorganChase
+•
+effects of climate change
+•
+natural disasters or severe weather conditions
+•
+accidents such as explosions or structural failures
+•
+health emergencies, the spread of infectious diseases, epidemics or pandemics, or
+•
+events arising from local or larger-scale civil or political unrest, any outbreak or escalation of hostilities, or terrorist acts."
+jpmorgan,cybersecurity_risk,"Aggressive actions by hostile governments or groups, including armed conflict or intensified cyber attacks, could expand in unpredictable ways by drawing in other countries or escalating into full-scale war with potentially catastrophic consequences, particularly if one or more of the combatants possess nuclear weapons."
+jpmorgan,cybersecurity_risk,JPMorganChase could also experience more numerous and aggressive cyber attacks launched by or under the sponsorship of one or more of the adversaries in such a conflict.
+caterpillar,market_risk,"The demand for our products and services tends to be cyclical and can be significantly reduced in periods of economic weakness characterized by lower levels of government and business investment, lower levels of business confidence, lower corporate earnings, high real interest rates, lower credit activity or tighter credit conditions, perceived or actual industry overcapacity, higher unemployment and lower consumer spending."
+caterpillar,market_risk,"Commodity price volatility may be abrupt and unpredictable in response to global economic conditions, government actions, regulatory changes, supply/demand dynamics, innovation, and commodity substitutions among others."
+caterpillar,market_risk,"Commodity price changes, material price increases, fluctuations in demand for our products and services, significant disruptions to our supply chains or significant shortages of labor and material may adversely impact our financial results or our ability to meet commitments to customers."
+caterpillar,market_risk,"Most countries where our products and services are sold have established central banks to regulate monetary systems and influence economic activities, generally by adjusting interest rates."
+caterpillar,market_risk,"Interest rate changes affect overall economic growth, which affects demand for residential and nonresidential structures, as well as energy and mined products, which in turn affects sales of our products and services that support these activities."
+caterpillar,market_risk,"Interest rate changes may also affect our customers’ ability to finance machine purchases, can change the optimal time to keep machines in a fleet and can impact the ability of our suppliers to finance the production of parts and components necessary to manufacture and support our products."
+caterpillar,market_risk,Increases in interest rates could negatively impact sales and create supply chain inefficiencies.
+caterpillar,market_risk,"Table of Contents
+Changes in interest rates or market liquidity conditions could adversely affect Cat Financial's and our earnings and/or cash flow."
+caterpillar,market_risk,Changes in interest rates and market liquidity conditions could have an adverse impact on Cat Financial's and our earnings and cash flows.
+caterpillar,market_risk,"Changes in market interest rates may influence its and our borrowing costs, returns on financial investments and the valuation of derivative contracts."
+caterpillar,market_risk,"Because a significant number of the loans made by Cat Financial are made utilizing fixed interest rates, its business results are subject to fluctuations in interest rates."
+caterpillar,market_risk,"Certain loans made by Cat Financial and various financing extended to Cat Financial are made at variable rates that use floating reference rates or indices, including the Secured Overnight Financing Rate (SOFR) as a benchmark for establishing the interest rate."
+caterpillar,market_risk,"Cat Financial manages interest rate and market liquidity risks through a variety of techniques that include a match funding strategy, the selective use of derivatives and a broadly diversified funding program."
+caterpillar,market_risk,"There can be no assurance, however, that fluctuations in interest rates and market liquidity conditions will not have an adverse impact on its and our earnings and cash flows."
+caterpillar,market_risk,"The creditworthiness of each customer and the rate of delinquencies, repossessions and net losses on customer obligations are directly impacted by several factors, including relevant industry and economic conditions, the availability of capital, the experience and expertise of the customer's management team, commodity prices, political events and the sustained value of the underlying collateral."
+caterpillar,market_risk,"Cat Financial has also agreed under certain of these agreements
+Table of Contents
+not to exceed a certain leverage ratio (consolidated debt to consolidated net worth, calculated (1) on a monthly basis as the average of the leverage ratios determined on the last day of each of the six preceding calendar months and (2) at each December 31), to maintain a minimum interest coverage ratio (calculated as (1) profit excluding income taxes, interest expense and net gain (loss) from interest rate derivatives to (2) interest expense calculated at the end of each fiscal quarter for the prior four consecutive fiscal quarter period) and not to terminate, amend or modify its support agreement with us."
+caterpillar,market_risk,"We employ a liability-driven investment strategy, where the interest rate sensitivity of the pension investments and pension obligations are aligned to reduce funded status volatility."
+caterpillar,credit_risk,"Economic uncertainties could affect customer demand for the Company’s products and services, the value of the equipment financed or leased, the demand for financing and the financial condition and credit risk of our dealers and customers."
+caterpillar,credit_risk,"Market volatility, changes in counterparty credit risk, the impact of government intervention in financial markets and general economic conditions may also adversely impact our ability to access capital and credit markets to fund operating needs."
+caterpillar,credit_risk,"Market disruption and volatility may also lead to numerous risks in connection with these events, including but not limited to:
+•
+Market developments that may affect customer confidence levels and cause declines in the demand for financing and adverse changes in payment patterns, causing increases in delinquencies and default rates, which could increase Cat Financial’s write-offs and provision for credit losses."
+caterpillar,credit_risk,Inherent in the operation of Cat Financial is the credit risk associated with its customers.
+caterpillar,operational_risk,We use a variety of agreements with suppliers to protect our intellectual property and processes to monitor and mitigate risks of the supply base causing a business disruption.
+caterpillar,operational_risk,"OPERATIONAL RISKS
+The success of our business depends on our ability to develop, produce and market quality products that meet our customers’ needs."
+caterpillar,operational_risk,"Risks associated with our past or future acquisitions also include the following:
+•
+the failure to achieve the acquisition's revenue or profit forecast;
+•
+the business culture of the acquired business may not match well with our culture;
+•
+technological and product synergies, economies of scale and cost reductions may not occur as expected;
+•
+unforeseen expenses, delays or conditions may be imposed upon the acquisition, including due to required regulatory approvals or consents;
+•
+we may acquire or assume unexpected liabilities or be subject to unexpected penalties or other enforcement actions;
+•
+faulty assumptions may be made regarding the macroeconomic environment or the integration process;
+•
+unforeseen difficulties may arise in integrating operations, processes and systems;
+•
+higher than expected investments may be required to implement necessary compliance processes and related systems, including information technology systems, accounting systems and internal controls over financial reporting;
+•
+we may fail to retain, motivate and integrate key management and other employees of the acquired business;
+•
+higher than expected costs may arise due to unforeseen changes in tax, trade, environmental, labor, safety, payroll or pension policies in any jurisdiction in which the acquired business conducts its operations; and
+Table of Contents
+•
+we may experience problems in retaining customers and integrating customer bases."
+caterpillar,regulatory_risk,"The State of Missouri acts as the lead regulatory authority and monitors Caterpillar Insurance Company’s financial status to ensure that it is in compliance with minimum solvency requirements, as well as other financial ratios prescribed by the National Association of Insurance Commissioners."
+caterpillar,regulatory_risk,"The State of Missouri acts as the lead regulatory authority, and it monitors the financial status to ensure that it is in compliance with minimum solvency requirements, as well as other financial ratios prescribed by the National Association of Insurance Commissioners."
+caterpillar,regulatory_risk,The Bermuda Monetary Authority is responsible for monitoring compliance with solvency requirements and requires an Annual Financial Filing for this purpose.
+caterpillar,regulatory_risk,"In addition to governing our manufacturing and other operations, these laws often impact the development of our products, including, but not limited to, required compliance with air emissions standards applicable to internal combustion engines."
+caterpillar,regulatory_risk,"Failure to continue to deliver high quality, innovative, competitive products to the marketplace, to adequately protect our intellectual property rights; to supply products that meet applicable regulatory requirements, including engine exhaust emission requirements or to predict market demands for, or gain market acceptance of, our products, could have a negative impact on our business, results of operations and financial condition."
+caterpillar,regulatory_risk,"In addition, data we collect, store and process are subject to a variety of U.S. and international laws and regulations, such as the European Union's General Data Protection Regulation and the California Consumer Privacy Act, which may carry significant potential penalties for noncompliance."
+caterpillar,regulatory_risk,LEGAL & REGULATORY RISKS
+caterpillar,regulatory_risk,"These include U.S. regulations issued by Customs and Border Protection, the Bureau of Industry and Security, the Office of Antiboycott Compliance, the Directorate of Defense Trade Controls and the Office of Foreign Assets Control, as well as the counterparts of these agencies in other countries."
+caterpillar,regulatory_risk,"We cannot predict the nature, scope or effect of future regulatory requirements to which our operations might be subject."
+caterpillar,regulatory_risk,We are subject to a variety of legal proceedings and legal compliance risks in virtually every part of the world.
+caterpillar,regulatory_risk,"The global and diverse nature of our operations means that legal and compliance risks will continue to exist and additional legal proceedings and other contingencies, the outcome of which cannot be predicted with certainty, may arise from time to time."
+caterpillar,regulatory_risk,"As a result, Cat Financial has become and could continue to become subject to additional regulatory costs that could be significant
+and have an adverse effect on Cat Financial
+’
+s and our results of operations and financial condition."
+caterpillar,regulatory_risk,"Table of Contents
+We are subject to stringent environmental laws and regulations that impose significant compliance costs."
+caterpillar,regulatory_risk,"The potential liabilities, sanctions, damages and remediation efforts related to any non-compliance with such laws and regulations could negatively impact our ability to conduct our operations and our financial condition and results of operations."
+caterpillar,regulatory_risk,"Changes in environmental and climate change laws or regulations, including laws relating to greenhouse gas emissions, could lead to new or additional investment in product designs and could increase environmental compliance expenditures."
+caterpillar,regulatory_risk,"If environmental laws or regulations are either changed or adopted and impose significant operational restrictions and compliance requirements upon us or our products, they could negatively impact our reputation, business, capital expenditures, results of operations, financial condition and competitive position."
+caterpillar,competitive_risk,"From time to time, the intensity of competition results in price discounting in a particular industry or region."
+caterpillar,liquidity_risk,Central banks and other policy arms of many countries may take actions to vary the amount of liquidity and credit available in an economy.
+caterpillar,liquidity_risk,"The impact from a change in liquidity and credit policies could negatively affect the customers and markets we serve or our suppliers, create supply chain inefficiencies and could adversely impact our business, results of operations and financial condition."
+caterpillar,liquidity_risk,"Such prior events, to date, have not had a material impact on our financial condition, results of operations or liquidity."
+caterpillar,liquidity_risk,"FINANCIAL RISKS
+Disruptions or volatility in global financial markets could limit our sources of liquidity, or the liquidity of our customers, dealers and suppliers."
+caterpillar,liquidity_risk,"Continuing to meet our cash requirements over the long-term requires substantial liquidity and access to varied sources of funds, including capital and credit markets."
+caterpillar,liquidity_risk,"Global or regional economic downturns could cause financial markets to decrease the availability of liquidity, credit and credit capacity for certain issuers, including certain customers, dealers and suppliers."
+caterpillar,liquidity_risk,"If capital and credit market volatility occurs, customers’ liquidity may decline which, in turn, would reduce their ability to purchase our products."
+caterpillar,liquidity_risk,"Failure to maintain our credit ratings could increase our cost of borrowing and could adversely affect our cost of funds, liquidity, competitive position and access to capital markets."
+caterpillar,liquidity_risk,"A downgrade of our credit rating by any of the major credit rating agencies could result in increased borrowing costs and could adversely affect Caterpillar’s and Cat Financial’s liquidity, competitive position and access to the capital markets, including restricting, in whole or in part, access to the commercial paper market."
+caterpillar,liquidity_risk,"Continuing to meet Cat Financial's cash requirements over the long-term could require substantial liquidity and access to sources of funds, including capital and credit markets."
+caterpillar,liquidity_risk,"If global economic conditions were to deteriorate, Cat Financial could face materially higher financing costs, become unable to access adequate funding to operate and grow its business and/or meet its debt service obligations as they mature."
+caterpillar,liquidity_risk,Cat Financial also could be required to draw upon contractually committed lending agreements and/or seek other funding sources.
+caterpillar,liquidity_risk,"However, there can be no assurance that such agreements and other funding sources would be sufficient or even available under extreme market conditions."
+caterpillar,liquidity_risk,"•
+Cat Financial’s ability to engage in routine funding transactions or to borrow from other financial institutions on acceptable terms or at all could be adversely affected by disruptions in the capital markets or other events, including actions by rating agencies and deteriorating investor expectations."
+caterpillar,liquidity_risk,We maintain a number of credit facilities to support general corporate purposes (facilities) and have issued debt securities to manage liquidity and fund operations (debt securities).
+caterpillar,liquidity_risk,Sustained increases in funding obligations under our pension plans may impair our liquidity or financial condition.
+caterpillar,liquidity_risk,"We maintain certain defined benefit pension plans for our employees, which impose on us certain funding obligations."
+caterpillar,cybersecurity_risk,"Information technology security threats -- from user error to cybersecurity attacks designed to gain unauthorized access to our systems, networks and data -- are increasing in frequency and sophistication."
+caterpillar,cybersecurity_risk,"Cybersecurity attacks from threat actors globally range from random attempts to coordinated and targeted attacks, including sophisticated computer crime and advanced persistent threats."
+caterpillar,cybersecurity_risk,"Cybersecurity attacks could also include attacks targeting customer data or the security, integrity and/or reliability of the hardware and software installed in our products."
+caterpillar,cybersecurity_risk,"We have experienced cybersecurity threats and vulnerabilities in our systems and those of our third party providers, and we have experienced viruses and attacks targeting our information technology systems and networks."
+caterpillar,cybersecurity_risk,"However, the potential consequences of a future material cybersecurity attack include reputational damage, litigation with third parties, government enforcement actions, penalties, disruption to systems, unauthorized release of confidential or otherwise protected information, corruption of data, diminution in the value of our investment in research, development and engineering, and increased cybersecurity protection and remediation costs, which in turn could adversely affect our competitiveness, results of operations and financial condition."
+caterpillar,cybersecurity_risk,"Further, the amount of insurance coverage we maintain may be inadequate to cover claims or liabilities relating to a cybersecurity attack."
+accenture,credit_risk,"These include risks related to counterparty performance under hedging contracts, risks related to ineffective hedges and risks related to currency fluctuations."
+accenture,operational_risk,Risks in this section are grouped in the following categories: (1) Business Risks; (2) Financial Risks; (3) Operational Risks; and (4) Legal and Regulatory Risks.
+accenture,operational_risk,"However, our corporate reputation is susceptible to material damage by events such as disputes with clients or competitors, cybersecurity incidents or service outages, internal control deficiencies, delivery or solution failures, compliance violations, government investigations or legal proceedings."
+accenture,operational_risk,"Operational Risks
+As a result of our geographically diverse operations and our strategy to continue to grow in our key markets around the world, we are more susceptible to certain risks."
+accenture,operational_risk,"Concentrating our delivery capability in these locations presents a number of operational risks, including those discussed in this risk factor, many of which are beyond our control and which have been and may in the future be exacerbated by increasing geopolitical tensions."
+accenture,operational_risk,"While these events have not materially impacted our ability to deliver services to our clients, international conflicts are unpredictable and we might not be as successful in mitigating these operational risks in the future."
+accenture,operational_risk,"The size and scope of our operations increase the possibility that we will have employees who engage in unlawful or fraudulent activity, or otherwise expose us to unacceptable business risks, despite our efforts to train them and maintain internal controls to prevent such instances."
+accenture,operational_risk,"This lesser degree of control may expose us to additional reputational, financial, legal, compliance or operational risks."
+accenture,operational_risk,"We could be subject to significant legal liability and litigation expense if we fail to meet our contractual obligations, contribute to internal control or other deficiencies of a client or otherwise breach obligations to third parties, including clients, ecosystem partners, employees and former employees, and other parties with whom we conduct business, or if our subcontractors breach or dispute the terms of our agreements with them and impede our ability to meet our obligations to our clients, or if our services or solutions cause bodily injuries to our people, clients, or the public or property damage."
+accenture,operational_risk,The inherent limitations of internal controls may not prevent or detect all improper or illegal activities.
+accenture,regulatory_risk,"As we expand our services and solutions into these new areas, we may be exposed to operational, legal, regulatory, ethical, technological and other risks specific to such new areas, which may negatively affect our reputation and demand for our services and solutions."
+accenture,regulatory_risk,"Risks and uncertainties related to the development and use of AI could harm our business, damage our reputation or give rise to legal or regulatory action."
+accenture,regulatory_risk,"Moreover, the use of AI may give rise to risks related to harmful content, accuracy, bias, intellectual property infringement or misappropriation, defamation, data privacy, cybersecurity and health and safety, among others, and also bring the possibility of new or enhanced governmental
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 1A. Risk Factors
+or regulatory scrutiny, litigation or other legal liability, or ethical concerns that could adversely affect our business, reputation, or financial results."
+accenture,regulatory_risk,"Several jurisdictions where we operate are considering or have proposed or enacted legislation and policies regulating AI and non-personal data, such as the European Union’s AI Act and the U.S.’s Executive Order on AI."
+accenture,regulatory_risk,"We are subject to numerous laws and regulations designed to protect this information, including privacy and cybersecurity laws such as the European Union’s General Data Protection Regulation (“GDPR”), the United Kingdom’s GDPR, U.S. states’ recent comprehensive privacy legislation, as well as various other U.S. federal and state laws governing the protection of privacy, health or other personally identifiable information and data privacy and cybersecurity laws in other regions, and related contractual obligations."
+accenture,regulatory_risk,"These laws and regulations continue to evolve, are increasing in complexity and number and increasingly conflict among the various countries in which we operate, which has resulted in greater compliance risk and cost for us."
+accenture,regulatory_risk,"Various privacy laws impose compliance obligations regarding the handling of personal data, including localization of data and the cross-border transfer of data, and significant financial penalties for noncompliance."
+accenture,regulatory_risk,"For example, failure to comply with the GDPR may lead to regulatory enforcement actions, which can result in monetary penalties of up to 4% of worldwide revenue, orders to discontinue certain data processing operations, civil lawsuits, or reputational damage."
+accenture,regulatory_risk,"If any person, including any of our employees, negligently disregards or intentionally breaches our established controls with respect to client, third-party or Accenture data, or otherwise mismanages or misappropriates that data, we could be subject to significant litigation, monetary damages, regulatory enforcement actions, fines and/or criminal prosecution in one or more jurisdictions."
+accenture,regulatory_risk,"The European Commission has been conducting investigations, focusing on whether local country tax rulings or tax legislation provides preferential tax treatment that violates European Union state aid rules."
+accenture,regulatory_risk,"We cannot predict the impact to our income taxes of future OECD guidance and interpretations, related local country tax legislation, and local challenges to our Pillar Two positions."
+accenture,regulatory_risk,"For example, employee misconduct could involve the improper use of sensitive or confidential information entrusted to us, or obtained inappropriately, or the failure to comply with legislation or regulations regarding the protection of sensitive or confidential information, including personal data and proprietary information."
+accenture,regulatory_risk,"In addition, we may fail to identify or adequately assess the magnitude of certain liabilities, shortcomings or other circumstances prior to acquiring, investing in or partnering with a company, including potential exposure to regulatory sanctions or liabilities resulting from an acquisition target’s previous activities, or from an acquisition’s controls related to financial reporting, disclosure, and cyber and information security environment."
+accenture,regulatory_risk,"If any of these circumstances occurs, they could result in unexpected regulatory or legal exposure, including litigation with new or existing clients, unfavorable accounting treatment,
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 1A. Risk Factors
+unexpected increases in taxes or other adverse effects on our relationships with clients and our business."
+accenture,regulatory_risk,"After reaching an agreement with a buyer for the disposition of a business, the transaction may be subject to the satisfaction of pre-closing conditions, including obtaining necessary regulatory and government approvals, which, if not satisfied or obtained, may prevent us from completing the transaction."
+accenture,regulatory_risk,"Legal and Regulatory Risks
+Our business could be materially adversely affected if we incur legal liability."
+accenture,regulatory_risk,"Our business is subject to the risk of litigation involving current and former employees, clients, ecosystem partners, subcontractors, suppliers, competitors, shareholders, government agencies or others through private actions, class actions, whistleblower claims, administrative proceedings, regulatory actions or other litigation."
+accenture,regulatory_risk,"For example, by taking over the operation of certain portions of our clients’ businesses, including functions and systems that are critical to the core businesses of our clients, by contributing to the design, development, manufacturing and/or engineering of client products, or by providing various operational technology, digital manufacturing and robotics or other industrial automation equipment solutions, and advisory, management and engineering services for infrastructure projects, we may be exposed to additional and evolving operational, regulatory, reputational or other risks specific to these areas, including risks related to data security, product liability, health and safety, hazardous materials and other environmental risks."
+accenture,regulatory_risk,"Our global operations expose us to numerous and sometimes conflicting legal and regulatory requirements, and violation of these regulations could harm our business."
+accenture,regulatory_risk,"We are subject to numerous, changing, and sometimes conflicting, legal regimes on matters as diverse as anticorruption, import/export controls, content requirements, trade restrictions, tariffs, taxation, sanctions, immigration, internal and disclosure control obligations, securities regulation, including ESG regulation and reporting requirements, anti-competition, anti-money-laundering, data privacy and protection, government compliance, wage-and-hour standards, employment and labor relations, product liability, health and safety, environmental, human rights and AI regulations, such as the European Union’s AI Act."
+accenture,regulatory_risk,"The global nature of our operations and supply chains, including emerging markets where legal systems may be less developed or understood by us, and the diverse nature of our operations across a number of regulated industries, further increase the difficulty of compliance."
+accenture,regulatory_risk,"Compliance with diverse legal requirements is costly, time-consuming and requires significant resources."
+accenture,regulatory_risk,"Our employees, subcontractors, vendors, agents, alliance or joint venture partners, the companies we acquire and their employees, subcontractors, vendors and agents, and other third parties with which we associate, could take actions that violate policies or procedures designed to promote legal and regulatory compliance or applicable anticorruption laws or regulations."
+accenture,regulatory_risk,"Increasing focus on ESG matters has resulted in, and is expected to continue to result in, the adoption of legal and regulatory requirements designed to mitigate the effects of climate change on the environment, as well as legal and regulatory requirements requiring climate, human rights and supply chain-related disclosures."
+accenture,regulatory_risk,"If new laws or regulations are more stringent than current legal or regulatory requirements, we may experience increased compliance burdens and costs to meet such obligations."
+accenture,regulatory_risk,"Examples of such risks include: (1) the availability and cost of low- or non-carbon-based energy sources and technologies and the ability of our suppliers to harness new technologies to reduce emissions; (2) evolving regulatory requirements affecting ESG standards or disclosures; (3) the availability of suppliers that can meet our sustainability, diversity and other standards; and (4) our ability to recruit, develop, and retain sufficient diverse talent."
+accenture,regulatory_risk,"These risks include, but are not limited to, the following:
+•
+Government entities, particularly in the United States, often reserve the right to audit our contract costs and conduct inquiries and investigations of our business practices and compliance with government contract requirements."
+accenture,regulatory_risk,"U.S. government agencies, including the Defense Contract Audit Agency, routinely audit our contract costs, including allocated indirect costs, for compliance with the Cost Accounting Standards and the Federal Acquisition Regulation."
+accenture,regulatory_risk,"•
+U.S. government contracting regulations impose strict compliance and heightened disclosure obligations."
+accenture,regulatory_risk,"•
+Political and economic factors such as pending elections, the outcome of recent elections, changes in leadership among key executive or legislative decision makers, revisions to governmental tax or other policies and reduced tax revenues can affect the number and terms of new government contracts signed or the speed at which new contracts are signed, decrease future levels of spending and authorizations for programs that we bid, shift spending priorities to programs in areas for which we do not provide services and/or lead to changes in enforcement or how compliance with relevant rules or laws is assessed."
+accenture,competitive_risk,"AI technologies are complex and rapidly evolving, and we face significant competition, including from our own clients, who may develop their own internal AI-related capabilities, which can lead to reduced demand for our services or solutions."
+accenture,competitive_risk,"There is competition for scarce talent with market-leading skills and capabilities in new technologies, and our people have been directly targeted because of their highly sought-after skills and this will likely continue."
+accenture,competitive_risk,"If we are unable to compete successfully, we could lose market share and clients to competitors, which could materially adversely affect our results of operations."
+accenture,competitive_risk,"In addition, we may face greater competition due to consolidation of companies in the technology sector through strategic mergers, acquisitions or teaming arrangements."
+accenture,competitive_risk,"Competitors may be willing, at times, to take on more risk or price contracts lower than us in an effort to enter the market or increase market share."
+accenture,competitive_risk,"The plan aims to prevent the proliferation of separate new digital taxes and to ensure a fairer distribution of profits among countries by creating a new global system to tax income based on the location of users, and to impose a floor on tax competition through the introduction of a global minimum tax."
+accenture,competitive_risk,"If we are unable to complete the number and kind of investments for which we plan, or if we are inefficient or unsuccessful at integrating acquired businesses into our operations, we may not be able to achieve our planned rates of growth or improve our market share, profitability or competitive position in specific markets or services."
+accenture,liquidity_risk,"While these projects are often planned and executed as multi-year projects, government entities usually reserve the right to change the scope of or terminate these
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 1A. Risk Factors
+projects for lack of approved funding and/or at their convenience."
+accenture,liquidity_risk,"Furthermore, if insufficient funding is appropriated to the government entity to cover termination costs, we may not be able to fully recover our investments."
+accenture,liquidity_risk,"If we are unable to obtain these authorizations from our shareholders, or are otherwise limited by the terms of our authorizations, our ability to issue shares under our equity compensation plans and, if applicable, to facilitate funding acquisitions or otherwise raise capital could be adversely affected."
+accenture,cybersecurity_risk,"Unauthorized disclosure or use of, denial of access to, or other incidents involving sensitive or confidential client, vendor, ecosystem partner or Accenture data, whether through systems failure, employee negligence, fraud, misappropriation, or cybersecurity, ransomware or malware attacks, or other intentional or unintentional acts, could damage our reputation and our competitive positioning in the marketplace, disrupt our or our clients’ business, cause us to lose clients and result in significant financial exposure and legal liability."
+accenture,cybersecurity_risk,"Cybersecurity threats are constantly expanding and evolving, becoming increasingly sophisticated and complex, increasing the difficulty of detecting and defending against them and maintaining effective security measures and protocols."
+accenture,cybersecurity_risk,"Furthermore, acquisitions or joint ventures may result in significant costs and expenses, including those related to retention payments, equity compensation, severance pay, early retirement costs, intangible asset amortization and asset impairment charges, enhancing controls, procedures and policies including those related to financial reporting, disclosure, and cyber and information security, assumed litigation and other liabilities, and legal, accounting and financial advisory fees, which could negatively affect our profitability as these costs and expenses grow along with the increased capital invested in such acquisitions and joint ventures."
+pg,credit_risk,"This could include political instability, upheaval or acts of war and the related responses of governments or other entities (including, but not limited to, boycotts in certain regions), broad economic instability or sovereign risk related to a default by or deterioration in the creditworthiness of local governments, particularly in emerging markets."
+pg,operational_risk,"Our business could also be negatively impacted if a key customer were to significantly reduce the inventory level of or shelf space allocated to our products as a result of increased offerings of other branded manufacturers, private label brands and generic non-branded products or for other reasons, significantly tighten product delivery windows or experience a significant business disruption."
+pg,operational_risk,"Additionally, while we have policies and procedures for managing these relationships, they inherently involve a lesser degree of control over business operations, governance and compliance, thereby potentially increasing our financial, legal, reputational and operational risk."
+pg,operational_risk,"Our business is subject to a wide variety of laws and regulations across the countries in which we do business, including those laws and regulations involving intellectual property, product liability, product composition or formulation, manufacturing processes, packaging content or corporate responsibility for packaging and product disposal, marketing, antitrust and competition, privacy, cybersecurity and data protection, artificial intelligence, environmental (including increasing focus on the climate, nature, water and waste impacts of consumer packaged goods companies' operations and products), employment, healthcare, anti-bribery and anti-corruption (including interactions with health care professionals and government officials as well as corresponding internal controls and record-keeping requirements), trade (including tariffs, sanctions and export controls), tax, accounting and financial reporting or other matters."
+pg,regulatory_risk,"Changes in geopolitical conditions could also amplify or affect the other risk factors set forth in this Part I, Item 1A, including, but not limited to, foreign exchange volatility, disruptions to the financial and credit markets, energy supply and supply chain disruptions, increased risks of an information security or operational technology incident, cost fluctuations and commodity cost increases and increased costs to ensure compliance with global and local laws and regulations."
+pg,regulatory_risk,"The various uses of these IT/OT systems, networks and services include, but are not limited to, ordering and managing materials from suppliers; converting materials to finished products; shipping, marketing and selling products; collecting, transferring, storing and/or processing customer, consumer, employee, vendor, investor and other stakeholder information and personal data, summarizing and reporting results of operations, including financial reporting; managing our banking and other cash liquidity systems and platforms; hosting, processing and sharing, as appropriate, confidential and proprietary research, business plans and financial information; collaborating via an online and efficient means of global business communications; complying with regulatory, legal and tax requirements; providing data security; and handling other processes necessary to manage our business."
+pg,regulatory_risk,"If the IT/OT systems, networks or service providers we rely upon fail to function properly or cause operational outages or aberrations, or if we or one of our third-party providers suffer significant unavailability of key operations, or inadvertent disclosure of, lack of integrity of, or loss of our sensitive business or stakeholder information, including personal information, due to any number of causes, including catastrophic events, natural disasters, power outages, computer and telecommunications failures, improper data handling, viruses, phishing attempts, cyber-attacks, malware and ransomware attacks, security breaches, misuse or malicious use of artificial intelligence, security incidents or employee error or malfeasance, and our business continuity plans do not effectively address these failures on a timely basis, we may suffer interruptions in our ability to manage operations and be exposed to reputational, competitive, operational, financial and business harm as well as litigation and regulatory action."
+pg,regulatory_risk,"Additionally, we could be exposed to potential liability, litigation, governmental inquiries, reporting requirements, investigations or regulatory enforcement actions; and we could be subject to payment of fines or other penalties, legal claims by our suppliers, customers or employees and significant remediation costs."
+pg,regulatory_risk,"If prolonged, such impacts can further increase the difficulty of business or operations planning and may adversely impact our results of operations and cash flows; or
+•
+Significant changes in the political conditions in markets in which we manufacture, sell or distribute our products, including quarantines, import/export restrictions, price controls, or governmental or regulatory actions, closures or other restrictions that limit or close our operating and manufacturing facilities, restrict our employees’ ability to travel or perform necessary business functions or otherwise prevent our third-party partners, suppliers or customers from sufficiently staffing operations."
+pg,regulatory_risk,"LEGAL & REGULATORY RISKS
+We must successfully manage compliance with current and expanding laws and regulations, as well as manage new and pending legal and regulatory matters in the U.S. and abroad."
+pg,regulatory_risk,"These and other rapidly changing laws, regulations, policies and related interpretations as well as increased enforcement actions by various governmental and regulatory agencies, create challenges for the Company, may alter the environment in which we do business, may increase the ongoing costs and complexities of compliance including by requiring investments in technology or other compliance systems and may ultimately result in the need to cease manufacturing, sales or other business activities in certain jurisdictions, which could adversely impact our results of operations and cash flows."
+pg,regulatory_risk,"Failure to successfully manage these new or pending regulatory and legal matters and resolve such matters without significant liability or damage to our reputation may materially adversely impact our financial condition, results of operations and cash flows."
+pg,regulatory_risk,"Furthermore, if new or pending legal or regulatory matters result in fines or costs in excess of the amounts accrued to date, that may also materially impact our results of operations and financial position."
+pg,regulatory_risk,"For example, in December 2017, the U.S. government enacted comprehensive tax legislation commonly referred to as the Tax Cuts and Jobs Act (the U.S. Tax Act)."
+pg,regulatory_risk,"In addition, several non-EU countries have proposed and/or adopted legislation consistent with the global minimum tax framework."
+pg,regulatory_risk,"Based on current legislation and available guidance, we do not anticipate the Pillar Two global minimum tax to have a material impact to our financial condition, results of operations, cash flows or effective tax rate in the fiscal year ending June 30, 2025."
+pg,competitive_risk,"Therefore, our business results depend, in part, on our continued ability to manage these fluctuations through pricing actions, cost saving projects and sourcing decisions, while maintaining and improving margins and market share."
+pg,competitive_risk,"As a result, we experience ongoing competitive pressures in the environments in which we operate, which may result in challenges in maintaining sales and profit margins."
+pg,competitive_risk,"Factors that may affect our ability to attract and retain sufficient numbers of qualified employees include employee morale, our reputation, competition from other employers and availability of qualified individuals."
+pg,competitive_risk,This includes developing and retaining organizational capabilities in key growth markets where the depth of skilled or experienced employees may be limited and competition for these resources is intense as well as continuing the development and execution of robust leadership succession plans.
+pg,liquidity_risk,"See also the Results of Operations and Cash Flow, Financial Condition and Liquidity sections of the MD&A and the Consolidated Financial Statements and related Notes."
+pg,liquidity_risk,Disruptions in credit markets or to our banking partners or changes to our credit ratings may reduce our access to credit or overall liquidity.
+pg,liquidity_risk,"A disruption in the credit markets or a downgrade of our current credit rating could increase our future borrowing costs and impair our ability to access capital and credit markets on terms commercially acceptable to us, which could adversely affect our liquidity and capital resources or significantly increase our cost of capital."
+pg,cybersecurity_risk,"The loss or disruption of such manufacturing and supply arrangements, including for issues such as labor disputes or controversies, loss or impairment of key manufacturing sites, discontinuity or disruptions in our internal information
+The Procter & Gamble Company 5
+and data systems or those of our suppliers, cybersecurity incidents including but not limited to ransomware attacks, misuse of artificial intelligence and machine learning technologies, inability to procure sufficient raw or input materials (including water, recycled materials and materials that meet our labor standards), significant changes in trade policy, natural disasters, increasing severity or frequency of extreme weather events due to climate change or otherwise, acts of war or terrorism, disease outbreaks or other external factors over which we have no control, have at times interrupted and could, in the future, interrupt product supply and, if not effectively managed and remedied, could have an adverse impact on our business, financial condition, results of operations or cash flows."
+pg,cybersecurity_risk,"Our results of operations or cash flows could also be negatively impacted if the Company or one of our brands suffers substantial harm to its reputation due to a significant product recall, product-related litigation, defects or impurities in our products, product misuse, changing consumer perceptions of certain ingredients, negative perceptions of packaging (such as plastic and other petroleum-based materials), lack of recyclability or other environmental attributes, concerns about actual or alleged labor or equality and inclusion practices, privacy failures or data breaches, allegations of product tampering or the distribution and sale of counterfeit products."
+pg,cybersecurity_risk,"A significant information security or operational technology incident, including a cybersecurity breach, or the failure of one or more key information or operations technology systems, networks, hardware, processes and/or associated sites involving the Company or one of its service providers could have a material adverse impact on our business or reputation."
+pg,cybersecurity_risk,"Numerous and evolving information security threats, including advanced persistent cybersecurity threats, pose a risk to the security of our services, systems, networks and supply chain, as well as the confidentiality, availability and integrity of our data and of our critical business operations."
+pg,cybersecurity_risk,"In addition, if a ransomware attack or other cybersecurity incident occurs, either internally or at our third-party providers, we could be prevented from accessing our data or systems, which may cause interruptions or delays in our business operations, cause us to incur remediation costs, subject us to demands to pay a ransom or damage our reputation."
+pg,cybersecurity_risk,"If such a new system or technology does not function properly, provides flawed or inaccurate outputs or exposes us to increased cybersecurity breaches and failures, it could affect our ability to order materials, make and ship orders and process payments in addition to other operational and information integrity and loss issues."
+infosys,regulatory_risk,"Dhareshwar Sushanth Michael Tharappan Tarang Puranik
+Head – Business Strategy, Planning Segment Head – Energy, Utilities, Head – Global Services Business Head – IBPM Chief Marketing Officer Global Head – Corporate Accounting Head HR – Infosys Limited Service Offering Head
+and Operations Resources and Services & Taxation, Facilities, Infrastructure
+and Security
+Deepak Bhalla Dennis Kantilal Gada Dinesh R. Inderpreet Sawhney Thirumala Arohi Umashankar Lakshmipathy Upendra Kohli Venkateshwaran
+Chief Risk Officer & Global Head – Segment Head – Banking and Chief Delivery Officer Chief Legal Officer and Global Head – Education, Training Service Offering Head Industry Head – Communications, Ananthakrishnan
+Business Finance and Operations Financial Services Chief Compliance Officer and Assessment and Head – India Media and Technology Industry Head – Healthcare
+Planning Business
+As of May 31, 2025
+Jasmeet Singh Jayachandran Nair Karmesh Gul Vaswani Mohammed Rafee Tarafdar
+Segment Head – Manufacturing Industry Head – Banking and Segment Head – CPG, Logistics Chief Technology Officer
+Financial Services and Retail
+26 Infosys Integrated Annual Report 2024-25 Infosys Integrated Annual Report 2024-25 27
+Performance overview
+Business highlights
+Highest ever free cash flow of `34,549 cr for fiscal 2025
+Revenues
+Basic earnings per share Operating margin
+Carbon neutrality
+1,62,990 (par value of ₹ 5 each) 21.1
+₹ cr % Carbon neutral for
+64.50
+6 years in a row
+6.1% growth Y-o-Y Robust operating margin
+8.3% growth Y-o-Y(4)
+4.2% CC growth Y-o-Y Scope 1, 2 and 3 emissions
+Free cash flow growth(3)
+Consolidated cash and
+investments(1) 44.8 % Y-o-Y
+47,549
+₹ cr
+FCF conversion at 129.2% of net profit
+Continue to main strong
+liquidity position
+Large deal TCV
+2,70,000
+(Total contract value in US$ billion)"
+infosys,regulatory_risk,"Regulatory as Infosys strives to be a truly AI-first company, there is a
+variances across regions will need to be incorporated simultaneous and equal focus on being at the forefront of
+into one’s strategy."
+infosys,regulatory_risk,"transformation will naturally be constrained by regulatory
+cholesterol."
+infosys,competitive_risk,"May 30, 2025 Chief Executive Officer and Managing Director
+Salil Parekh
+Chief Executive Officer and
+Managing Director
+32 Infosys Integrated Annual Report 2024-25 Infosys Integrated Annual Report 2024-25 33
+Performance overview
+Awards and recognitions
+• Recognized as one of the best • Infosys BPM won an award at NIQR
+organizations for women in 2024 by Lean Six Sigma Case Study Contest
+The Economic Times 2024
+• Recognized as India’s Best • Infosys BPM won an award at the CII
+WorkplacesTM for Women 2024: Top National Lean Competition 2024
+50 (Large) for the fourth consecutive
+• Infosys BPM won the SS&C Blue
+year by Great Place to Work® Institute
+Prism Partner Excellence Award
+• Recognized among ‘Best Companies 2024, under the ‘Intelligent
+for Women in India (BCWI) study, Automation Award’ category for the
+• Recognized as the largest IT
+2024’ by Avtar & Seramount, and APAC Region
+employer in Karnataka at the Invest
+among ‘Best Companies - Hall of
+Karnataka 2025 Summit
+Fame’ for having featured in the list,
+• Positioned as a leader in HFS
+six editions in a row
+Horizons for –
+• Awarded the Diversity and Inclusion • Received Binding Corporate Rules
+- AADA Quadfecta of Analytics, AI, Data
+Employer of the Year at the 2024 Certification from EU Data Protection
+Platforms, and Automation Services
+Digital Revolution Awards Authorities
+for Generative Enterprise 2024
+• Recognized as one of the “Most
+Business Honored” companies, receiving
+multiple awards at the 2024 All-
+Asia Executive Team Rankings from
+Cloud
+• Infosys featured in 2025 LinkedIn’s Institutional Investor
+Top Companies list in India, US, and
+• Infosys Consulting listed in Forbes
+Canada
+Best Management Consulting Firms • Infosys positioned as a leader in
+• Recognized as one of India’s Best In The World 2024 List Gartner® Magic QuadrantTM for –
+Employers Among Nation-Builders
+• Infosys Consulting listed in Forbes - Public Cloud IT Transformation
+2024 by the Great Place To Work®
+ESG 2025 America’s Best Management Services
+Institute
+Consulting Firms List
+- Cloud ERP Services
+• Received the Shorty Impact Awards • Recognized as one of India’s Best • Infosys was rated as Top 100 most
+• Infosys BPM won two awards at ATD
+• Infosys won the following awards in the Gender Equality category for Companies to Work for 2024 by the 2024: ‘Excellence in Practice Award valuable brand in the world by Kantar • Positioned as a leader in The
+at the Asset ESG"
+infosys,liquidity_risk,"We also have immense
+Nandan M. Nilekani depends on innovation and the form of energy that will confidence stemming from our fortress balance sheet –
+Chairman fuel us forward – solar, wind, batteries, pumped hydro, characterized by high liquidity, zero debt, and the ability
+green hydrogen, nuclear, carbon capture and storage, etc. to withstand uncertainty."
+infosys,cybersecurity_risk,"Non-Executive and
+Directorship / Committee details
+Board (1) Committee(2) Directorship / Committee details Non-Independent Director
+Board (1) Committee(2)
+Chairperson Nil Nil Board (1) Committee(2)
+Chairperson Nil 1 Directorship / Committee details
+Member 1 Nil Chairperson 2 2
+Member 1 2 Board (1) Committee(2)
+Member 6 7
+Areas of expertise Chairperson Nil 3
+• Financial Areas of expertise Areas of expertise Member 6 6
+• Diversity • Financial
+• Financial
+• Global business • Diversity Areas of expertise
+• Diversity
+• Leadership • Global business • Global business • Financial
+• Information Technology • Leadership • Leadership • Diversity
+• Cybersecurity • Information Technology • Information Technology • Global business
+• Board service & governance •"
+infosys,cybersecurity_risk,"Cybersecurity • Cybersecurity • Leadership
+• Sales & marketing • Board service & governance •"
+infosys,cybersecurity_risk,"Date of reappointment Tenure on Board Tenure on Board Tenure on Board
+March 25, 2024 2.2 years 1.8 years 1.3 years
+Tenure on Board Term ending date Term ending date Term ending date
+4 years January 11, 2028 May 25, 2026 December 31, 2028
+Term ending date Shareholding Shareholding Shareholding
+March 24, 2027 Nil Nil Nil
+Shareholding
+Board memberships – Indian listed companies
+Board memberships – Indian listed companies Board memberships – Indian listed companies
+Nil
+Infosys Limited: Independent Director
+Infosys Limited: Independent Director Infosys Limited: Independent Director
+Hindustan Unilever Limited: Non-executive
+Board memberships – Indian listed companies Directorship / Committee details Directorship / Committee details Director and Chairperson
+Infosys Limited: Independent Director Board (1) Committee(2) Board (1) Committee(2)
+Chairperson Nil Nil Chairperson Nil Nil Directorship / Committee details
+Directorship / Committee details
+Member 6 Nil Member 1 Nil Board (1) Committee(2)
+Board (1) Committee(2)
+Chairperson 1 Nil
+Chairperson Nil Nil
+Areas of expertise Areas of expertise Member 2 1(3)
+Member 1 1
+• Diversity • Financial
+Areas of expertise
+• Global business • Diversity
+Areas of expertise • Leadership • Global business • Financial
+• Diversity • Information Technology • Leadership • Diversity
+• Global business • Cybersecurity • Information Technology • Global business
+• Leadership • Board service & governance •"
+infosys,cybersecurity_risk,"Cybersecurity • Leadership
+• Information Technology • Sales & marketing • Board service & governance •"
+infosys,cybersecurity_risk,"Board service & governance
+• Cybersecurity • Sustainability & ESG • Sales & marketing • Sales & marketing
+• Board service & governance •"
+infosys,cybersecurity_risk,"Infosys
+We have developed domain-specific language models Springboard, our free skilling platform, is helping build
+for some industries, IT operations, and cybersecurity."
+infosys,cybersecurity_risk,"Our expertise across enterprise solutions, engineering
+As technology continues to be more central in the world,
+services, cybersecurity, applications, infrastructure, and
+Infosys becomes more relevant to our clients."

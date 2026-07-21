@@ -1,0 +1,39 @@
+ONE-PAGE BRIEF: PG
+==================================================
+
+MD&A SUMMARY:
+ Certain statements in this report are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of Securities Exchange Act of 1934 . The purpose of Management's Discussion and Analysis (MD&A) is to provide an understanding of Procter & Gamble's financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year .
+
+RISK FACTORS SUMMARY:
+ The following discussion of “risk factors” identifies significant factors that may adversely affect our business, operations, financial position or future financial performance . This information should be read in conjunction with Management's Discussion and Analysis and the Consolidated Financial Statements .
+
+KEY METRICS:
+  mdna_total_words: 13307
+  mdna_Negative: 249
+  mdna_Negative_pct: 1.871
+  mdna_Positive: 138
+  mdna_Positive_pct: 1.037
+  mdna_Uncertainty: 239
+  mdna_Uncertainty_pct: 1.796
+  mdna_Litigious: 50
+  mdna_Litigious_pct: 0.376
+  mdna_Constraining: 76
+  mdna_Constraining_pct: 0.571
+  risk_total_words: 5599
+  risk_Negative: 268
+  risk_Negative_pct: 4.787
+  risk_Positive: 58
+  risk_Positive_pct: 1.036
+  risk_Uncertainty: 173
+  risk_Uncertainty_pct: 3.09
+  risk_Litigious: 69
+  risk_Litigious_pct: 1.232
+  risk_Constraining: 48
+  risk_Constraining_pct: 0.857
+  riskcount_market_risk: 0
+  riskcount_credit_risk: 1
+  riskcount_operational_risk: 3
+  riskcount_regulatory_risk: 12
+  riskcount_competitive_risk: 4
+  riskcount_liquidity_risk: 3
+  riskcount_cybersecurity_risk: 6

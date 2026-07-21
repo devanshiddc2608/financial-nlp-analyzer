@@ -1,0 +1,39 @@
+ONE-PAGE BRIEF: INFOSYS
+==================================================
+
+MD&A SUMMARY:
+ Infosys recognizes and accords highest priority to safety and well-being of its employees . Risk assessment includes quarterly evaluation of incidents that have occurred . Hazardous conditions are identified and prioritized for elimination and control . Total permanent 3,23,578 2,713* employees .
+
+RISK FACTORS SUMMARY:
+ Infosys Limited: Non-Executive and nandan-nilekani. Non-Independent Director Directorship / Committee details Board (1) Committee(2) Chairperson 1 Nil Member 6 Nil . Highest ever free cash flow of `34,549 cr for fiscal 2025 .
+
+KEY METRICS:
+  mdna_total_words: 672
+  mdna_Negative: 5
+  mdna_Negative_pct: 0.744
+  mdna_Positive: 2
+  mdna_Positive_pct: 0.298
+  mdna_Uncertainty: 10
+  mdna_Uncertainty_pct: 1.488
+  mdna_Litigious: 2
+  mdna_Litigious_pct: 0.298
+  mdna_Constraining: 2
+  mdna_Constraining_pct: 0.298
+  risk_total_words: 3563
+  risk_Negative: 8
+  risk_Negative_pct: 0.225
+  risk_Positive: 60
+  risk_Positive_pct: 1.684
+  risk_Uncertainty: 29
+  risk_Uncertainty_pct: 0.814
+  risk_Litigious: 4
+  risk_Litigious_pct: 0.112
+  risk_Constraining: 3
+  risk_Constraining_pct: 0.084
+  riskcount_market_risk: 0
+  riskcount_credit_risk: 0
+  riskcount_operational_risk: 0
+  riskcount_regulatory_risk: 3
+  riskcount_competitive_risk: 1
+  riskcount_liquidity_risk: 1
+  riskcount_cybersecurity_risk: 7

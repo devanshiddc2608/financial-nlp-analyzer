@@ -1,0 +1,689 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis should be read in conjunction with our Consolidated Financial Statements and related Notes included elsewhere in this Annual Report on Form 10-K. This discussion and analysis also contains forward-looking statements and should also be read in conjunction with the disclosures and information contained in “Disclosure Regarding Forward-Looking Statements” and “Risk Factors” in this Annual Report on Form 10-K.
+We use the terms “Accenture,” “we,” “our” and “us” in this report to refer to Accenture plc and its subsidiaries. All references to years, unless otherwise noted, refer to our fiscal year, which ends on August 31. For example, a reference to “fiscal 2024” means the 12-month period that ended on August 31, 2024. All references to quarters, unless otherwise noted, refer to the quarters of our fiscal year.
+We use the term “in local currency” so that certain financial results may be viewed without the impact of foreign currency exchange rate fluctuations, thereby facilitating period-to-period comparisons of business performance. Financial results “in local currency” are calculated by restating current period activity into U.S. dollars using the comparable prior-year period’s foreign currency exchange rates. This approach is used for all results where the functional currency is not the U.S. dollar.
+Overview
+Accenture is a leading global professional services company, providing a broad range of services and solutions across Strategy & Consulting, Technology, Operations, Industry X and Song. We serve clients in three geographic markets: North America, EMEA (Europe, Middle East and Africa) and Growth Markets (Asia Pacific and Latin America). We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability to help the world’s leading organizations build their digital core, optimize their operations, accelerate revenue growth and enhance services—creating tangible value at speed and scale. In the first quarter of fiscal 2025, our Latin America market unit will move from Growth Markets to North America. With this change, North America will become the Americas market and Growth Markets will become the Asia Pacific market.
+Our results of operations are affected by economic conditions, including macroeconomic conditions, the overall inflationary environment and levels of business confidence. There continues to be significant economic and geopolitical uncertainty in many markets around the world, which has impacted and may continue to impact our business. These conditions have slowed the pace and level of client spending, particularly for smaller contracts with a shorter duration and for our consulting services. Clients continue to prioritize large-scale transformations, which convert to revenue over a longer period.
+Key Metrics
+Key metrics for
+fiscal 2024 compared to fiscal 2023 are included below. We have presented operating income, operating margin, effective tax rate and diluted earnings per share on a non-GAAP or “adjusted” basis to exclude the impact of $438 million and $1,063 million, respectively, in business optimization costs recorded during fiscal 2024 and 2023 and, with respect to effective tax rate and diluted earnings per share, the impact of a $253 million investment gain related to our investment in Duck Creek Technologies recorded during fiscal 2023 as discussed further in our Results of Operations. For additional information regarding business optimization costs, see Note 1 (Summary of Significant Accounting Policies) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+•
+Revenues of $64.9 billion,
+an increase of
+1%
+in U.S. dollars and
+2%
+in local currency;
+•
+New bookings of $81.2 billion,
+an increase of 13% in U.S. dollars and 14% in local currency;
+•
+Operating margin of 14.8%,
+compared to 13.7% in fiscal 2023; adjusted operating margin was 15.5% compared to 15.4% in fiscal 2023;
+•
+Diluted earnings per share of $11.44,
+a 6% increase over $10.77 for fiscal 2023; adjusted earnings per share increased 2% to $11.95 compared to $11.67 for fiscal 2023; and
+•
+Cash returned to shareholders of $7.8 billion,
+including share purchases of $4.5 billion and dividends of $3.2 billion.
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Revenues
+Fiscal
+Percent
+Increase (Decrease)
+U.S.
+Dollars
+Percent
+Increase (Decrease)
+Local
+Currency
+Percent of Total
+Revenues
+for Fiscal
+(in billions of U.S. dollars)
+2023
+2023
+Geographic Markets
+North America (1)
+$
+30.7
+$
+30.3
+%
+%
+%
+%
+EMEA (2)
+22.8
+22.3
+—
+35
+Growth Markets (1) (2)
+11.3
+11.5
+(2)
+17
+Total Revenues
+$
+64.9
+$
+64.1
+%
+%
+%
+%
+Industry Groups
+Communications, Media & Technology
+$
+10.8
+$
+11.5
+(5)
+%
+(4)
+%
+%
+%
+Financial Services
+11.6
+12.1
+(4)
+(3)
+19
+Health & Public Service
+13.8
+12.6
+10
+20
+Products
+19.6
+19.1
+2
+30
+Resources
+9.1
+8.9
+4
+14
+Total Revenues
+$
+64.9
+$
+64.1
+%
+%
+%
+%
+Type of Work
+Consulting
+$
+33.2
+$
+33.6
+(1)
+%
+(1)
+%
+%
+%
+Managed Services
+31.7
+30.5
+5
+48
+Total Revenues
+$
+64.9
+$
+64.1
+%
+%
+%
+%
+Amounts in table may not total due to rounding.
+(1)
+In the first quarter of fiscal 2025, our Latin America market unit will move from Growth Markets to North America. With this change, North America will become the Americas market and Growth Markets will become the Asia Pacific market.
+(2)
+During the first quarter of fiscal 2024, we revised the reporting of our geographic markets for the movement of our Middle East and Africa market units from Growth Markets to Europe, and the Europe market became our EMEA (Europe, Middle East and Africa) geographic market. Prior period amounts have been reclassified to conform with the current period presentation.
+Revenues for fiscal 2024 increased 1% in U.S. dollars and 2% in local currency compared to fiscal 2023. During fiscal 2024, revenue growth in local currency was strong in Growth Markets and modest in North America, while EMEA was flat. We experienced local currency revenue growth that was very strong in Health & Public Service, solid in Resources and modest in Products, partially offset by a decline in Communications, Media & Technology and a modest decline in Financial Services. Revenue growth in local currency was solid in managed services, partially offset by a slight decline in consulting during fiscal 2024. The business environment is competitive, and we continue to experience lower pricing across the business. We define pricing as contract profitability or margin on the work that we sell
+.
+In our consulting business, revenues for fiscal 2024 decreased 1% in both U.S. dollars and local currency compared to fiscal 2023. The decline in consulting revenue in local currency in fiscal 2024 was driven by a decline in EMEA, partially offset by modest growth in Growth Markets and slight growth in North America. Our consulting revenue continues to be driven by helping our clients accelerate their reinvention, in particular technology, data, and AI led digital transformations. This includes moving to the cloud, embedding security and responsible AI across the enterprise and leveraging our change capabilities to help our clients build new skills and drive the successful adoption of new processes and technologies. In addition, clients continue to be focused on initiatives designed to deliver cost savings and supply chain and operational resilience, as well as projects to accelerate growth and improve customer experiences. While we continue to experience demand for these services, we are seeing a slower pace and level of client spending, especially for smaller contracts with a shorter duration.
+In our managed services business, revenues for fiscal 2024 increased 4% in U.S. dollars and 5% in local currency compared to fiscal 2023. Managed services revenue growth in local currency in fiscal 2024 was driven by very strong growth in Growth Markets, solid growth in EMEA and modest growth in North America. We continue to experience growing demand to assist clients with application modernization and maintenance, cloud enablement and cybersecurity-as-a-service. In addition, clients continue to be focused on transforming their operations through technology, data and AI, and leveraging our digital platforms and talent to drive productivity and operational cost savings.
+As we are a global company, our revenues are denominated in multiple currencies and may be significantly affected by currency exchange rate fluctuations. While a significant portion of our revenues are in U.S. dollars, the majority of our revenues are denominated in other currencies, including the Euro, Japanese yen and U.K. pound. There continues to be volatility in foreign currency exchange rates. Unfavorable fluctuations in foreign currency exchange rates have had and could in the future have a material effect on our financial results. If the U.S. dollar weakens against other currencies, resulting in favorable currency translation, our revenues, revenue growth and results of operations in U.S. dollars may be higher. If the U.S. dollar strengthens against other currencies, resulting in unfavorable currency translation, our revenues, revenue growth and results of operations in U.S. dollars may be lower. The U.S. dollar strengthened against various currencies during fiscal 2024, resulting in unfavorable currency translation and U.S. dollar revenue growth that was approximately 1% lower than our
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+revenue growth in local currency for the year. Assuming that exchange rates stay within recent ranges, we estimate that our fiscal 2025 revenue growth in U.S. dollars will be approximately 1.5% higher than our revenue growth in local currency.
+People Metrics
+Utilization
+Workforce
+Annualized Voluntary Attrition
+92%
+774,000+
+13%
+up from 91% in fiscal 2023
+compared to approximately 733,000 as of August 31, 2023
+consistent with fiscal 2023
+Utilization for fiscal 2024 was 92%, up from 91% in fiscal 2023. We hire to meet current and projected future demand. We proactively plan and manage the size and composition of our workforce and take actions as needed to address changes in the anticipated demand for our services and solutions, given that compensation costs are the most significant portion of our operating expenses. Our workforce, the majority of which serves our clients, increased to approximately 774,000 as of August 31, 2024, compared to approximately 733,000 as of August 31, 2023. The year-over-year increase in our workforce reflects people added in connection with acquisitions and hiring for specific skills.
+For fiscal 2024, attrition, excluding involuntary terminations, was 13%, consistent with fiscal 2023. For the fourth quarter of fiscal 2024, annualized attrition, excluding involuntary terminations, was 14%, consistent with the third quarter of fiscal 2024. We evaluate voluntary attrition, adjust levels of new hiring and use involuntary terminations as a means to keep our supply of skills and resources in balance with changes in client demand.
+In addition, we adjust compensation to provide market relevant pay based on the skills of our people and locations where we operate. We also consider a variety of factors, including the macroeconomic environment, in making our decisions around pay and benefits. We strive to adjust pricing as well as drive cost and delivery efficiencies, such as changing the mix of people and utilizing technology, to reduce the impact of compensation increases on our margin and contract profitability.
+Our ability to grow our revenues and maintain or increase our margin could be adversely affected if we are unable to: match people and skills with the types or amounts of services and solutions clients are demanding; recover or offset increases in compensation; deploy our employees globally on a timely basis; manage attrition; and/or effectively assimilate new employees.
+New Bookings
+Fiscal
+Percent
+Increase (Decrease)
+U.S.
+Dollars
+Percent
+Increase (Decrease)
+Local
+Currency
+(in billions of U.S. dollars)
+2023
+Consulting
+$
+37.0
+$
+36.2
+%
+%
+Managed Services
+44.2
+36.0
+24
+Total New Bookings
+$
+81.2
+$
+72.2
+%
+%
+We provide information regarding our new bookings, which include new contracts, including those acquired through acquisitions, as well as renewals, extensions and changes to existing contracts, because we believe doing so provides useful trend information regarding changes in the volume of our new business over time. New bookings can vary significantly quarter to quarter depending in part on the timing of the signing of a small number of large managed services contracts. The types of services and solutions clients are demanding and the pace and level of their spending may impact the conversion of new bookings to revenues. For example, managed services bookings, which are typically for multi-year contracts, generally convert to revenue over a longer period of time compared to consulting bookings.
+Information regarding our new bookings is not comparable to, nor should it be substituted for, an analysis of our revenues over time. New bookings involve estimates and judgments. There are no third-party standards or requirements governing the calculation of bookings. We do not update our new bookings for material subsequent terminations or reductions related to bookings originally recorded in prior fiscal years. New bookings are recorded using then-existing foreign currency exchange rates and are not subsequently adjusted for foreign currency exchange rate fluctuations.
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+The majority of our contracts are terminable by the client on short notice with little or no termination penalties, and some without notice. Only the non-cancelable portion of these contracts is included in our remaining performance obligations disclosed in Note 2 (Revenues) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.” Accordingly, a significant portion of what we consider contract bookings is not included in our remaining performance obligations.
+Critical Accounting Policies and Estimates
+The preparation of our Consolidated Financial Statements in conformity with U.S. generally accepted accounting principles requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the Consolidated Financial Statements and the reported amounts of revenues and expenses. We continually evaluate our estimates, judgments and assumptions based on available information and experience. Because the use of estimates is inherent in the financial reporting process, actual results could differ from those estimates. Certain of our accounting policies require higher degrees of judgment than others in their application. These include certain aspects of accounting for revenue recognition and income taxes.
+Revenue Recognition
+Determining the method and amount of revenue to recognize requires us to make judgments and estimates. Specifically, complex arrangements with nonstandard terms and conditions may require contract interpretation to determine the appropriate accounting, including whether promised goods and services specified in an arrangement are distinct performance obligations and should be accounted for separately. Other judgments include determining whether performance obligations are satisfied over time or at a point in time and the selection of the method to measure progress towards completion.
+We measure progress towards completion for technology integration consulting services and some non-technology consulting services using costs incurred to date relative to total estimated costs at completion. Revenues, including estimated fees, are recorded proportionally as costs are incurred. The amount of revenue recognized for these contracts in a period is dependent on our ability to estimate total contract costs. We continually evaluate our estimates of total contract costs based on available information and experience.
+Additionally, the nature of our contracts gives rise to several types of variable consideration, including incentive fees. Many contracts include incentives or penalties related to costs incurred, benefits produced or adherence to schedules that may increase the variability in revenues and margins earned on such contracts. We conduct reviews prior to signing such contracts to evaluate whether these incentives are reasonably achievable. Our estimates are monitored over the lives of our contracts and are based on an assessment of our anticipated performance, historical experience and other information available at the time.
+For additional information, see Note 2 (Revenues) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Income Taxes
+Determining the consolidated provision for income tax expense, income tax liabilities and deferred tax assets and liabilities involves judgment. Deferred tax assets and liabilities, measured using enacted tax rates, are recognized for the future tax consequences of temporary differences between the tax and financial statement bases of assets and liabilities. As a global company, we calculate and provide for income taxes in each of the tax jurisdictions in which we operate. This involves estimating current tax exposures in each jurisdiction as well as making judgments regarding the recoverability of deferred tax assets. Tax exposures can involve complex issues and may require an extended period to resolve. In assessing the realizability of deferred tax assets, we consider whether it is more likely than not that some portion or all of the deferred tax assets will not be realized and adjust the valuation allowances accordingly. Factors considered in making this determination include the period of expiration of the tax asset, planned use of the tax asset, tax planning strategies and historical and projected taxable income as well as tax liabilities for the tax jurisdiction in which the tax asset is located. Valuation allowances will be subject to change in each future reporting period as a result of changes in one or more of these factors. Changes in the geographic mix or estimated level of annual income before taxes can affect the overall effective tax rate.
+We apply an estimated annual effective tax rate to our quarterly operating results to determine the interim provision for income tax expense. A change in judgment that impacts the measurement of a tax position taken in a prior year is recognized as a discrete item in the interim period in which the change occurs. In the event there is a significant unusual or infrequent item recognized in our quarterly operating results, the tax attributable to that item is recorded in the interim period in which it occurs. We release stranded tax effects from Accumulated other comprehensive loss using the specific identification approach for our defined benefit plans and the portfolio approach for other items.
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+No taxes have been provided on undistributed foreign earnings that are planned to be indefinitely reinvested. If future events, including material changes in estimates of cash, working capital and long-term investment requirements, necessitate that these earnings be distributed, an additional provision for taxes may apply, which could materially affect our future effective tax rate. We currently do not foresee any event that would require us to distribute these indefinitely reinvested earnings. For additional information, see Note 11 (Income Taxes) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+As a matter of course, we are regularly audited by various taxing authorities, and sometimes these audits result in proposed assessments where the ultimate resolution may result in us owing additional taxes. We establish tax liabilities or reduce tax assets when, despite our belief that our tax return positions are appropriate and supportable under local tax law, we believe we may not succeed in realizing the tax benefit of certain positions if challenged. In evaluating a tax position, we determine whether it is more likely than not that the position will be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. Our estimate of the ultimate tax liability contains assumptions based on past experiences, judgments about potential actions by taxing jurisdictions as well as judgments about the likely outcome of issues that have been raised by taxing jurisdictions. The tax position is measured at the largest amount of benefit that is greater than 50 percent likely of being realized upon settlement. We evaluate tax positions each quarter and adjust the related tax liabilities or assets in light of changing facts and circumstances, such as the progress of a tax audit or the expiration of a statute of limitations. We believe the estimates and assumptions used to support our evaluation of tax positions are reasonable. However, final determinations of prior-year tax liabilities, either by settlement with tax authorities or expiration of statutes of limitations, could be materially different from estimates reflected in assets and liabilities and historical income tax provisions. The outcome of these final determinations could have a material effect on our income tax provision, net income, or cash flows in the period in which that determination is made. We believe our tax positions comply with applicable tax law and that we have adequately accounted for these positions.
+Revenues by Segment/Geographic Market
+Our three reportable operating segments are our geographic markets, North America, EMEA and Growth Markets. In addition to reporting revenues by geographic market and industry group, we also report revenues by two types of work: consulting and managed services, which represent the services sold by our geographic markets. Consulting revenues, which include strategy, management and technology consulting and technology integration consulting, reflect a finite, distinct project or set of projects with a defined outcome and typically a defined set of specific deliverables. Managed services revenues typically reflect ongoing, repeatable services or capabilities provided to transition, run and/or manage operations of client systems or business functions.
+From time to time, our geographic markets work together to sell and implement certain contracts. The resulting revenues and costs from these contracts may be apportioned among the participating geographic markets. Generally, operating expenses for each geographic market have similar characteristics and are subject to the same factors, pressures and challenges. However, the economic environment and its effects on the industries served by our geographic markets affect revenues and operating expenses within our geographic markets to differing degrees. The mix between consulting and managed services is not uniform among our geographic markets. Local currency fluctuations also tend to affect our geographic markets differently, depending on the geographic concentrations and locations of their businesses.
+While we provide discussion about our results of operations below, we cannot measure how much of our revenue growth in a particular period is attributable to changes in price or volume. Management does not track standard measures of unit or rate volume. Instead, our measures of volume and price are extremely complex, as each of our services contracts is unique, reflecting a customized mix of specific services that does not fit into standard comparability measurements. Revenue for our services is a function of the nature of each service to be provided, the skills required and the outcome sought, as well as estimated cost, risk, contract terms and other factors.
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Results of Operations for Fiscal 2024 Compared to Fiscal 2023
+Revenues
+Revenues by geographic market, industry group and type of work are as follows:
+Fiscal
+Percent
+Increase (Decrease)
+U.S.
+Dollars
+Percent
+Increase (Decrease)
+Local
+Currency
+(in millions of U.S. dollars)
+2023
+Geographic Markets
+North America (1)
+$
+30,741
+$
+30,296
+%
+%
+EMEA (2)
+22,818
+22,293
+—
+Growth Markets (1) (2)
+11,338
+11,524
+(2)
+Total Revenues
+$
+64,896
+$
+64,112
+%
+%
+Industry Groups
+Communications, Media & Technology
+$
+10,837
+$
+11,453
+(5)
+%
+(4)
+%
+Financial Services
+11,610
+12,132
+(4)
+(3)
+Health & Public Service
+13,841
+12,560
+10
+Products
+19,554
+19,104
+2
+Resources
+9,054
+8,863
+4
+Total Revenues
+$
+64,896
+$
+64,112
+%
+%
+Type of Work
+Consulting
+$
+33,195
+$
+33,613
+(1)
+%
+(1)
+%
+Managed Services
+31,701
+30,499
+5
+Total Revenues
+$
+64,896
+$
+64,112
+%
+%
+Amounts in table may not total due to rounding.
+(1)
+In the first quarter of fiscal 2025, our Latin America market unit will move from Growth Markets to North America. With this change, North America will become the Americas market and Growth Markets will become the Asia Pacific market.
+(2)
+During the first quarter of fiscal 2024, we revised the reporting of our geographic markets for the movement of our Middle East and Africa market units from Growth Markets to Europe, and the Europe market became our EMEA (Europe, Middle East and Africa) geographic market. Prior period amounts have been reclassified to conform with the current period presentation.
+Geographic Markets
+The following revenues commentary discusses the primary drivers of local currency revenue changes by geographic market for fiscal 2024 compared to fiscal 2023:
+•
+North America revenues increased 2% in local currency, led by growth in Public Service and Industrial, partially offset by declines in Banking & Capital Markets, Communications & Media and Software & Platforms. Revenue growth was driven by the United States.
+•
+EMEA revenues were flat in local currency, as growth in Public Service was offset by declines in Communications & Media and Banking & Capital Markets. Revenues were driven by an increase in Italy, offset by declines in France and the United Kingdom.
+•
+Growth Markets revenues increased 7% in local currency, led by growth in Banking & Capital Markets, Industrial and Chemicals & Natural Resources. Revenue growth was driven by Japan and Argentina, partially offset by declines in Australia and Brazil. Argentina revenues grew in local currency due primarily to hyperinflation.
+Operating Expenses
+Operating expenses for fiscal 2024 decreased $1 million from fiscal 2023, and decreased as a percentage of revenues to 85.2% from 86.3% during this period.
+The primary categories of operating expenses include Cost of services, Sales and marketing and General and administrative costs. Cost of services is primarily driven by the cost of people serving our clients, which consists mainly of compensation, subcontractor and other payroll costs, and non-payroll costs such as facilities, technology and travel. Cost of services includes a variety of activities such as: contract delivery; recruiting and training; software development; and integration of acquisitions. Sales and marketing costs are driven primarily by compensation costs for business development activities;
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+marketing- and advertising-related activities; and certain acquisition-related costs. General and administrative costs primarily include costs for people that are non-client-facing, information systems, office space and certain acquisition-related costs.
+Operating expenses by category are as follows:
+Fiscal
+(in millions of U.S. dollars)
+2023
+Increase
+(Decrease)
+Operating Expenses
+$
+55,301
+85.2
+%
+$
+55,302
+86.3
+%
+$
+(1)
+Cost of services
+43,734
+67.4
+43,380
+67.7
+Sales and marketing
+6,847
+10.6
+6,583
+10.3
+General and administrative costs
+4,281
+6.6
+4,276
+6.7
+Business optimization costs
+0.7
+1,063
+1.7
+(625)
+Amounts in table may not total due to rounding.
+Cost of Services
+Cost of services for fiscal 2024 increased $354 million, or 1%, over fiscal 2023, and decreased as a percentage of revenues to 67.4% from 67.7% during this period. Gross margin for fiscal 2024 increased to 32.6% compared to 32.3% in fiscal 2023. The increase in gross margin for fiscal 2024 was primarily due to lower labor costs, partially offset by higher non-payroll costs, primarily for travel compared to fiscal 2023.
+Sales and Marketing
+Sales and marketing expense for fiscal 2024 increased $264 million, or 4%, over fiscal 2023, and increased as a percentage of revenues to 10.6% over 10.3% during this period due to higher selling and other business development costs.
+General and Administrative Costs
+General and administrative costs for fiscal 2024 increased $5 million over fiscal 2023, and decreased as a percentage of revenues to 6.6% from 6.7% during this period.
+Business Optimization Costs
+During fiscal 2024 and 2023, we recorded business optimization costs of $438 million and $1,063 million, respectively, primarily for employee severance. These business optimization initiatives were completed as of August 31, 2024. For additional information, see Note 1 (Summary of Significant Accounting Policies) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Non-GAAP Financial Measures
+We have presented operating income, operating margin, effective tax rate and diluted earnings per share on a non-GAAP or “adjusted” basis excluding the business optimization costs recorded in fiscal 2024 and fiscal 2023, and, with respect to effective tax rate and diluted earnings per share, the impact of an investment gain recorded in fiscal 2023, as we believe doing so facilitates understanding as to the impact of these items and our performance in comparison to the prior periods. While we believe that this non-GAAP financial information is useful in evaluating our operations, this information should be considered as supplemental in nature and not as a substitute for the related financial information prepared in accordance with GAAP.
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Operating Income and Operating Margin
+Operating income and operating margin for each of the geographic markets are as follows:
+Fiscal
+2023
+(in millions of U.S. dollars)
+Operating
+Income
+Operating
+Margin
+Operating
+Income
+Operating
+Margin
+Increase
+(Decrease)
+North America
+$
+4,952
+%
+$
+4,474
+%
+$
+EMEA (1)
+2,804
+2,483
+320
+Growth Markets (1)
+1,840
+1,853
+(13)
+Total
+$
+9,596
+14.8
+%
+$
+8,810
+13.7
+%
+$
+Amounts in table may not total due to rounding.
+(1)
+During the first quarter of fiscal 2024, we revised the reporting of our geographic markets for the movement of our Middle East and Africa market units from Growth Markets to Europe, and the Europe market became our EMEA (Europe, Middle East and Africa) geographic market. Prior period amounts have been reclassified to conform with the current period presentation.
+Operating income for fiscal 2024 increased $786 million, or 9%, compared with fiscal 2023. Operating margin for fiscal 2024 was 14.8%, compared with 13.7% for fiscal 2023.
+Geographic Markets
+We estimate that the aggregate percentage impact of foreign currency exchange rates on our operating income during fiscal 2024 was similar to that disclosed for revenue for each geographic market. The commentary below provides insight into other factors affecting geographic market performance and operating income, including the impact of foreign currency exchange rates where significant, for fiscal 2024 compared with fiscal 2023:
+•
+North America operating income increased primarily due to revenue growth, lower business optimization costs and lower labor costs, partially offset by a decline in consulting contract profitability and higher acquisition-related costs.
+•
+EMEA operating income increased primarily due to the positive impact of foreign currency exchange rates which resulted in an increase in U.S. dollar revenues, lower labor costs and lower business optimization costs, partially offset by declines in consulting revenues in local currency and consulting contract profitability.
+•
+Growth Markets operating income decreased as
+revenue growth in local currency and lower labor costs were more than offset by lower contract profitability and the negative impact of foreign currency exchange rates which resulted in a decline in U.S. dollar revenues.
+Operating Income and Operating Margin Excluding Business Optimization Costs (Non-GAAP)
+The business optimization costs reduced operating margin for fiscal 2024 and 2023 by 70 and 170 basis points, respectively. Adjusted operating margin for fiscal 2024 increased 10 basis points to 15.5% compared with fiscal 2023.
+Fiscal
+2023
+(in millions of U.S. dollars)
+Operating
+Income (GAAP)
+Business
+Optimization (1)
+Operating
+Income (Non-GAAP)
+Operating
+Margin
+(Non-GAAP)
+Operating
+Income (GAAP)
+Business
+Optimization (1)
+Operating
+Income (Non-GAAP)
+Operating
+Margin
+(Non-GAAP)
+Increase
+(Decrease)
+North America
+$
+4,952
+$
+$
+5,021
+%
+$
+4,474
+$
+$
+4,939
+%
+$
+EMEA (2)
+2,804
+3,052
+2,483
+2,922
+131
+Growth Markets (2)
+1,840
+1,961
+1,853
+2,013
+(51)
+Total
+$
+9,596
+$
+$
+10,034
+15.5
+%
+$
+8,810
+$
+1,063
+$
+9,873
+15.4
+%
+$
+Amounts in table may not total due to rounding.
+(1)
+Costs recorded in connection with our business optimization initiatives, primarily for employee severance.
+(2)
+During the first quarter of fiscal 2024, we revised the reporting of our geographic markets for the movement of our Middle East and Africa market units from Growth Markets to Europe, and the Europe market became our EMEA (Europe, Middle East and Africa) geographic market. Prior period amounts have been reclassified to conform with the current period presentation.
+Other Income (Expense), net
+Other income (expense), net primarily consists of foreign currency gains and losses, non-operating components of pension expense, as well as gains and losses associated with our investments. During fiscal 2024, Other income (expense), net decreased $206 million from fiscal 2023, primarily due to lower gains on investments.
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Income Tax Expense
+The effective tax rate for fiscal 2024 was 23.5%, compared with 23.4% for fiscal 2023.
+Income Tax Expense Excluding Business Optimization Costs and Investment Gain (Non-GAAP)
+Excluding the business optimization costs of $438 million and related reduction in tax expense of $111 million, our adjusted effective tax rate was 23.6% for fiscal 2024. Excluding the business optimization costs of $1,063 million and related reduction in tax expense of $247 million, and the investment gain of $253 million and related tax expense of $9 million, our adjusted effective tax rate was 23.9% for fiscal 2023.
+Net Income Attributable to Noncontrolling Interests
+Net income attributable to noncontrolling interests reflects the income earned or expense incurred attributable to the equity interest that some current and former members of Accenture Leadership and their permitted transferees have in our Accenture Canada Holdings Inc. subsidiary. See “Business—Organizational Structure.” Noncontrolling interests also includes amounts primarily attributable to noncontrolling shareholders in our Avanade Inc. subsidiary. Net income attributable to Accenture plc represents the income attributable to the shareholders of Accenture plc.
+Earnings Per Share
+Diluted earnings per share were $11.44 for fiscal 2024, compared with $10.77 for fiscal 2023. For information regarding our earnings per share calculations, see Note 3 (Earnings Per Share) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Earnings Per Share Excluding Business Optimization Costs and Investment Gain (Non-GAAP)
+The business optimization costs of $327 million, net of related taxes, decreased diluted earnings per share by $0.51 for fiscal 2024. Adjusted diluted earnings per share were $11.95 for fiscal 2024. The business optimization costs of $816 million, net of related taxes, decreased diluted earnings per share by $1.28 and the investment gain of $244 million, net of related taxes, increased diluted earnings per share by $0.38 for fiscal 2023. Adjusted diluted earnings per share were $11.67 for fiscal 2023.
+Fiscal
+FY24 As Reported
+$
+11.44
+Business optimization costs
+0.69
+Tax effect of business optimization costs (1)
+(0.18)
+FY24 As Adjusted
+$
+11.95
+FY23 As Reported
+$
+10.77
+Business optimization costs
+1.66
+Gain on an investment
+(0.40)
+Tax effect of business optimization costs and gain on an investment (1)
+(0.37)
+FY23 As Adjusted
+$
+11.67
+Amounts in table may not total due to rounding.
+(1)
+The income tax effect of business optimization costs and gain on an investment include both the current and deferred income tax impact and was calculated by using the relevant tax rate of the country where the adjustments were recorded.
+The increase in adjusted diluted earnings per share is due to the following factors:
+Fiscal
+FY23 As Adjusted
+$
+11.67
+Higher revenue and operating results
+0.19
+Lower share count
+0.05
+Lower effective tax rate
+0.05
+Higher non-operating income
+0.02
+Higher net income attributable to noncontrolling interests
+(0.03)
+FY24 As Adjusted
+$
+11.95
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Our operating income and diluted earnings per share are affected by currency exchange rate fluctuations on revenues and costs. Most of our costs are incurred in the same currency as the related revenues. Where practical, we seek to manage foreign currency exposure for costs not incurred in the same currency as the related revenues, such as the costs associated with our global delivery model, by using currency protection provisions in our customer contracts and through our hedging programs. We seek to manage our costs, taking into consideration the residual positive and negative effects of changes in foreign exchange rates on those costs. For more information on our hedging programs, see Foreign Currency Risk under Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” and Note 9 (Financial Instruments) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Results of Operations for Fiscal 2023 Compared to Fiscal 2022
+Our Annual Report on Form 10-K for the fiscal year ended August 31, 2023 includes a discussion and analysis of our financial condition and results of operations for the year ended August 31, 2022 in Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Liquidity and Capital Resources
+Our primary sources of liquidity are cash flows from operations, available cash reserves, debt capacity available under variou
+s credit facilities and other borrowings. We could raise additional funds through other public or private debt or equity financings. We may use our available or additional funds to, among other things:
+•
+facilitate purchases, redemptions and exchanges of shares and pay dividends;
+•
+acquire complementary businesses or technologies;
+•
+take advantage of opportunities, including more rapid expansion;
+•
+develop new services and solutions; or
+•
+repay outstanding borrowings and other debt.
+See Note 10 (Borrowings and Indebtedness) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data” for further information regarding our outstanding borrowings and other debt.
+As of August 31, 2024, Cash and cash equivalents were $5.0 billion, compared with $9.0 billion as of
+August 31, 2023.
+Cash flows from operating, investing and financing activities, as reflected in our Consolidated Cash Flows Statements, are summarized in the following table:
+Fiscal
+Change
+(in millions of U.S. dollars)
+2023
+Net cash provided by (used in):
+Operating activities
+$
+9,131
+$
+9,524
+$
+(393)
+Investing activities
+(7,062)
+(2,622)
+(4,439)
+Financing activities
+(6,064)
+(5,645)
+(418)
+Effect of exchange rate changes on cash and cash equivalents
+(46)
+(101)
+Net increase (decrease) in cash and cash equivalents
+$
+(4,041)
+$
+1,155
+$
+(5,196)
+Amounts in table may not total due to rounding.
+Operating activities:
+The $393 million decrease in operating cash flows was primarily due to changes in operating assets and liabilities, including receivables from clients and contract assets, partially offset by higher net income.
+Investing activities:
+The $4,439 million increase in cash used was primarily due to higher spending on business acquisitions. For additional information, see Note 6 (Business Combinations and Dispositions) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Financing activities:
+The $418 million increase in cash used was due to higher cash dividends paid and net purchases of shares, as well as higher purchases of noncontrolling interests, partially offset by higher net proceeds from borrowings. For additional information, see Note 14 (Shareholders’ Equity) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+We believe that our current and longer-term working capital, investments and other general corporate funding requirements will be satisfied for the next twelve months and thereafter through cash flows from operations and, to the extent necessary, from our borrowing facilities and future financial market activities.
+Substantially all of our cash is held in jurisdictions where there are no regulatory restrictions or material tax effects on the free flow of funds. Domestic cash inflows for our Irish parent, principally dividend distributions from lower-tier subsidiaries, have been sufficient to meet our historic cash requirements, and we expect this to continue into the future.
+Share Purchases and Redemptions
+We intend to continue to use a significant portion of cash generated from operations for share repurchases during fiscal 2025. The number of shares ultimately repurchased under our open-market share purchase program may vary depending on numerous factors, including, without limitation, share price and other market conditions, our ongoing capital allocation planning, the levels of cash and debt balances, other demands for cash, such as acquisition activity, general economic and/or business conditions, and board and management discretion. Additionally, as these factors may change over the course of the year, the amount of share repurchase activity during any particular period cannot be predicted and may fluctuate from time to time. Share repurchases may be made from time to time through open-market purchases, in respect of purchases and redemptions of Accenture Canada Holdings Inc. exchangeable shares, through the use of Rule 10b5-1 plans and/or by
+Table of Contents
+ACCENTURE
+2024 FORM 10-K
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+other means. The repurchase program may be accelerated, suspended, delayed or discontinued at any time, without notice. For additional information, see Note 14 (Shareholders’ Equity) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Subsequent Events
+See Note 10 (Borrowings and Indebtedness) and Note 14 (Shareholders’ Equity) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Obligations and Commitments
+As of August 31, 2024, we had commitments of $3.4 billion related to cloud hosting arrangements, software subscriptions, information technology services and other obligations in the ordinary course of business that we cannot cancel or where we would be required to pay a termination fee in the event of cancellation. Payments under these commitments are estimated to be made as follows:
+(in millions of U.S. dollars)
+Payments (1)
+Less than 1 year
+$
+1,068
+1-3 years
+1,352
+3-5 years
+More than 5 years
+Total
+$
+3,370
+(1)
+Amounts do not include recourse that we may have to recover termination fees or penalties from clients.
+For information about borrowing facilities and leases, see Note 10 (Borrowings and Indebtedness) and Note 8 (Leases) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Off-Balance Sheet Arrangements
+In the normal course of business and in conjunction with some client engagements, we have entered into contractual arrangements through which we may be obligated to indemnify clients with respect to certain matters. To date, we have not been required to make any significant payment under any of these arrangements. For further discussion of these transactions, see Note 15 (Commitments and Contingencies) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+New Accounting Pronouncements
+See Note 1 (Summary of Significant Accounting Policies) to our Consolidated Financial Statements under Item 8, “Financial Statements and Supplementary Data.”
+Table of Contents
+ACCENTURE
+2024 FORM 10-K

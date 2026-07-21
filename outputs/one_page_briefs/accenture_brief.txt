@@ -1,0 +1,39 @@
+ONE-PAGE BRIEF: ACCENTURE
+==================================================
+
+MD&A SUMMARY:
+ Revenues of $64.9 billion, an increase of 1% in U.S. dollars and 2% in local currency . Operating margin of 14.8%, compared to 13.7% in fiscal 2023 . Diluted earnings per share of $11.44, a 6% increase over $10.77 for fiscal 2024 . Cash returned to shareholders of $7.8 billion, including share purchases of $4.5 billion .
+
+RISK FACTORS SUMMARY:
+ Risks in this section are grouped in the following categories: (1), (2) Financial Risks; (3) Operational Risks) and (4) Legal and Regulatory Risks . Our financial results depend in part on the demand for our services and solutions, which could be negatively affected by numerous factors, many of which are beyond our control .
+
+KEY METRICS:
+  mdna_total_words: 6483
+  mdna_Negative: 61
+  mdna_Negative_pct: 0.941
+  mdna_Positive: 47
+  mdna_Positive_pct: 0.725
+  mdna_Uncertainty: 91
+  mdna_Uncertainty_pct: 1.404
+  mdna_Litigious: 52
+  mdna_Litigious_pct: 0.802
+  mdna_Constraining: 32
+  mdna_Constraining_pct: 0.494
+  risk_total_words: 13910
+  risk_Negative: 614
+  risk_Negative_pct: 4.414
+  risk_Positive: 145
+  risk_Positive_pct: 1.042
+  risk_Uncertainty: 513
+  risk_Uncertainty_pct: 3.688
+  risk_Litigious: 304
+  risk_Litigious_pct: 2.185
+  risk_Constraining: 123
+  risk_Constraining_pct: 0.884
+  riskcount_market_risk: 0
+  riskcount_credit_risk: 1
+  riskcount_operational_risk: 9
+  riskcount_regulatory_risk: 30
+  riskcount_competitive_risk: 7
+  riskcount_liquidity_risk: 3
+  riskcount_cybersecurity_risk: 3
